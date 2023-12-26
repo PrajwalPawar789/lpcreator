@@ -84,5 +84,7 @@ async function cloneWebsite(url) {
 }
 
 // Example usage with the provided link
-const websiteUrl = 'https://info.microsoft.com/ww-landing-the-defenders-watch-episode-1-the-watch-begins.html?LCID=EN-US&culture=en-us&country=us';
+// const websiteUrl = 'https://techresearchs.com/';
+const websiteUrl = 'https://thecioworld.com/';
+
 cloneWebsite(websiteUrl);
