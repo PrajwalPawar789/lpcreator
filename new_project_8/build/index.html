@@ -1,0 +1,511 @@
+ <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1" /><meta name="HandheldFriendly" content="true" /><title>The Ultimate Guide to VMware Migration and Modernization on Azure</title><meta name="description" content="The Ultimate Guide to VMware Migration and Modernization on Azure" /><meta name="keywords" content="The Ultimate Guide to VMware Migration and Modernization on Azure" /><link rel="shortcut icon" href=""  type="image/x-icon"><link rel="preconnect" href="//styles.assets-landingi.com" /><link rel="preconnect" href="//old.assets-landingi.com" /><link rel="preconnect" href="//fonts.googleapis.com" /><link rel="preconnect" href="//images.assets-landingi.com" /><link rel="preconnect" href="//cdn.lugc.link" />
+<script fetchpriority="high">
+   (function(src, cb) {
+    var s = document.createElement('script'); s.setAttribute('src', src); s.setAttribute('fetchpriority', 'high');
+    s.onload = cb; (document.head || document.body).appendChild(s);
+  })('https://ucarecdn.com/libs/blinkloader/3.x/blinkloader.min.js', function() {
+    window.Blinkloader.optimize({
+      fadeIn:false,
+      lazyload:true,
+      smartCompression:true,
+      responsive:true,
+      retina:true,
+      webp:true,
+      pubkey:'ca6af56c901b93c58ffa',
+      cdnBase:'https://cdn.lugc.link'
+    });
+    
+    if (window.location !== window.parent.location) {
+        window.onload = function() {
+            setTimeout(function () {
+                window.dispatchEvent(new CustomEvent('scroll'))
+            }, 500);
+        };
+    }
+  })
+</script><meta property="og:title" content="The Ultimate Guide to VMware Migration and Modernization on Azure"/><meta property="og:description" content="The Ultimate Guide to VMware Migration and Modernization on Azure"/><meta property="og:image" content=""/><link href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext&display=swap" type="text/css" rel="preload" as="style" fetchpriority="high" onload="this.onload=null;this.rel='stylesheet'"><link href="//fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext,cyrillic,cyrillic-ext&display=swap" type="text/css" rel="preload" as="style" fetchpriority="high" onload="this.onload=null;this.rel='stylesheet'"><link href="https://styles.assets-landingi.com/assets/css/2.14-landend-base.css" type="text/css" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'"><link href="https://styles.assets-landingi.com/KqjXNRzk/base.css" type="text/css" rel="stylesheet"><script>
+    var landingiInternalDetails = {
+        'landing_id': '1566466',
+        'landing_hash': '5aa9b7f266d6feda7533',
+        'landing_variant_hash': '',
+        'landing_name': 'Microsoft+%3A+France%3A+French+%3AThe+Ultimate+Guide+to+VMware+Migration+and+Modernization+on+Azure',
+        'landing_lang': 'en',
+        'account_uuid': 'b065abe0-6e03-11ea-bff9-42b3a1540b74',
+        'apikey': '6e314dd3-fc1a-43a0-9b55-02b4a96c50b6'
+   }
+</script><script>
+
+ document.documentElement.lang = "en";
+
+
+function hotFix(){
+  for(var i=0;i<=5;i++){
+    document.getElementsByTagName("select")[i].removeAttribute("aria-label");
+     document.getElementsByTagName("select")[i].setAttribute("aria-label", "New Label");
+  }
+  }
+  hotFix();
+ 
+
+  
+
+</script><script>
+(async function (w, d) {
+    try {
+        const response = await w.fetch(
+            'https://' + 'tagmanager.landingi.io' + '/account/' + 'b065abe0-6e03-11ea-bff9-42b3a1540b74'
+        );
+        const gtm = await response.json();
+
+        if (gtm) {
+            const script = d.head.getElementsByTagName('script')[0];
+            const tmpl = d.createElement('template');
+            tmpl.innerHTML = gtm;
+            tmpl.content.childNodes.forEach((node) => {
+                let elem = node;
+
+                if ('SCRIPT' === node.nodeName) {
+                    elem = d.createElement('script');
+
+                    if (node.textContent) {
+                        elem.textContent = node.textContent;
+                    }
+
+                    if (node.src) {
+                        elem.src = node.src;
+                        elem.type = node.type;
+                    }
+
+                    script.parentNode.insertBefore(elem, script);
+                }
+
+                if ('STYLE' === node.nodeName) {
+                    elem = d.createElement('style');
+
+                    if (node.textContent) {
+                        elem.textContent = node.textContent;
+                    }
+
+                    script.parentNode.insertBefore(elem, script);
+                }
+            })
+        }
+    } catch (err) {
+        console.log(err);
+    }
+})(window, document);
+</script><script>
+window.lazySizesConfig = window.lazySizesConfig || {};
+window.lazySizesConfig.init = false;
+</script>
+<script type="text/javascript" src="//assetslp.link/assets/js/landend/lazysizes.min.js"></script>
+<script>
+lazySizes.init();
+</script><script defer fetchpriority="low" src="https://popups.landingi.com/api/v3/landing/install-code?apikey=6e314dd3-fc1a-43a0-9b55-02b4a96c50b6&landing=5aa9b7f266d6feda7533"></script><script defer fetchpriority="low" src="https://scripts.assets-landingi.com/lightboxes/lightbox-render.js?v=1698248934"></script><script>
+window.addEventListener('load', function () {
+    LightboxRender.init({
+        useAaf: true
+    })
+});
+</script></head><body id="TxvpQxGuo6CkxW3pseVeXnPkXz3TAWhR" >
+<div id="fwG8O6R5wFuI4GIMqEzXMxnoiEH1Tctn" class="widget widget-section " >
+    <div class="row">
+        
+        <div class="container " >
+            
+            <a href="https://www.microsoft.com/"
+    id="c8NKQeANOfIXIXqr1Es56m6hLbsa4CxW"
+    class="widget widget-image"
+    aria-label="Image"
+    target="_self"
+    
+>
+    <img data-blink-uuid="36a67abb-5457-4509-8403-1d919f4b2875" data-blink-src="https://cdn.lugc.link/36a67abb-5457-4509-8403-1d919f4b2875/-/preview/" data-blink-stretch="off" data-blink-quality="normal"  
+        title="https://www.microsoft.com/"
+        alt="https://www.microsoft.com/"
+         width="185" height="60" 
+    >
+</a>
+
+        </div>
+    </div>
+</div>
+<div id="RLMCuzUXrTKXP9kFtzcsnEgnxlMd9Ggv" class="widget widget-section " >
+    <div class="row">
+        
+        <div class="container " >
+            
+            <div id="t2cKP1llaRPT3dpQJbLdl0H70va3I0G6" class="widget widget-text"><h1><font color="#ffffff">The Ultimate Guide to VMware Migration and Modernization on Azure</font></h1></div><div id="Tfry2Psi7WuxD2O5duVy1D5plNmpSQ7n" class="widget widget-box" ></div><div id="ugr7RDBZSb2FIggJmlmTZqeWLFukXEAc" class="widget widget-text"><p><b>Téléchargez le livre électronique</b></p></div><div id="ZiHBGHiiRq9BQIbkZOGkBzlN1QrKBO4t" class="widget widget-text"><p>Parlez-nous peu de vous</p></div><form id="aCEMmRzw1fxla01SXbTvHMZsGEfblhOH" class="widget widget-form" data-orientation="vertical" data-version="2.1" action="/The-Ultimate-Guide-to-VMware-Migration-and-Modernization-on-Azure-France-French/submit/5aa9b7f266d6feda7533" enctype="multipart/form-data" method="post" novalidate data-hash="5aa9b7f266d6feda7533"><div id="TH0KTbpZiMpohiFHTiAfVyNvoBgzcT9V" class="widget widget-container clearfix"><label id="RvosDVTu6ZuhDNoy0nlPbnDGEr1Xyc4f" class="widget widget-text widget-regular-label widget-label"for="U0vahsbxsRZQ22Xp0dLK7TXiskGzMeE8">First Name</label><input class="widget widget-input-text" id="U0vahsbxsRZQ22Xp0dLK7TXiskGzMeE8"  type="text" subtype="name" placeholder="Pr&eacute;nom" parentId="aCEMmRzw1fxla01SXbTvHMZsGEfblhOH"  name="name"  value="" ></div><div id="N0CAEm0Qg7ZaXtS2b7ThGsMIQwwmpKlH" class="widget widget-container clearfix"><label id="N7Gk2FQTOai674JuzP7lnFS1DflMF6zH" class="widget widget-text widget-regular-label widget-label"for="e4aNOo1CAVmXmyRNQEzXnRuaTlJBnHHQ">Last Name</label><input class="widget widget-input-text" id="e4aNOo1CAVmXmyRNQEzXnRuaTlJBnHHQ"  type="text" subtype="name" placeholder="Nom de famille" parentId="aCEMmRzw1fxla01SXbTvHMZsGEfblhOH"  name="name1"  value="" ></div><div id="hThEhoffWGlq51ph5lv8GAAuadCd5O6r" class="widget widget-container clearfix"><label id="tKI1E8yCRThCsT1uCuQ0ifV8Bl2XTOFZ" class="widget widget-text widget-regular-label widget-label"for="unNdStcmbi8PBxHuSi9uvH1yyNir1Z4T">Business Email</label><input class="widget widget-input-text" id="unNdStcmbi8PBxHuSi9uvH1yyNir1Z4T"  type="email" subtype="email" parentId="aCEMmRzw1fxla01SXbTvHMZsGEfblhOH" placeholder="Courriel professionnel"  name="email"  value="" ></div><div id="ksSQ1VgDTan8hCWqbAmThpEqmeddDR4V" class="widget widget-container clearfix"><label id="DCDfAnib8KPTWSKe24BNV4J9C51Sg8iT" class="widget widget-text widget-regular-label widget-label"for="O9580rfiymvpPCrVSXyTWazxrHhTkCmi">Company</label><input class="widget widget-input-text" id="O9580rfiymvpPCrVSXyTWazxrHhTkCmi"  type="text" subtype="company" placeholder="Compagnie" parentId="aCEMmRzw1fxla01SXbTvHMZsGEfblhOH"  name="company"  value="" ></div><div id="tQl790COc4AP1yE8wsOCfTV2JDCvnKSV" class="widget widget-container clearfix"><label id="OZXzDLVT7idb00Jpi5FlhCmD3NInLswh" class="widget widget-text widget-regular-label widget-label"for="qtLsVyBJUmUXUfITEJp3s53ocosvhVUc">Company Size</label><select class="widget-select widget widget-input-select" id="qtLsVyBJUmUXUfITEJp3s53ocosvhVUc"  placeholder="Taille de l'entreprise" parentId="aCEMmRzw1fxla01SXbTvHMZsGEfblhOH"  name="select1" ><option value selected  disabled hidden>Taille de l'entreprise</option><option value="10,000+" >10,000+</option><option value="1,000-9,999" >1,000-9,999</option><option value="250-999" >250-999</option><option value="100-249" >100-249</option><option value="50-99" >50-99</option><option value="25-49" >25-49</option><option value="10-24" >10-24</option><option value="5-9" >5-9</option><option value="2-4" >2-4</option><option value="1" >1</option></select></div><div id="ve0IidvweQrQVn2zxAL3sCpkLqe2rRZu" class="widget widget-container clearfix"><label id="nr4g7ccuxJKJKtNobeT6Tecr7SSiJLwM" class="widget widget-text widget-regular-label widget-label"for="nPRNiLzLCistJz0exh5eB4W5z7w4y6dQ">Job Title</label><select class="widget-select widget widget-input-select" id="nPRNiLzLCistJz0exh5eB4W5z7w4y6dQ"  placeholder="Fonction" parentId="aCEMmRzw1fxla01SXbTvHMZsGEfblhOH"  name="select2" ><option value selected  disabled hidden>Fonction</option><option value="Propri&eacute;taire" >Propri&eacute;taire</option><option value="Directeur g&eacute;n&eacute;ral" >Directeur g&eacute;n&eacute;ral</option><option value="Vice-pr&eacute;sident" >Vice-pr&eacute;sident</option><option value="Directeur" >Directeur</option><option value="Responsable" >Responsable</option><option value="Contributeur individuel/Personnel" >Contributeur individuel/Personnel</option><option value="&Eacute;tudiant" >&Eacute;tudiant</option></select></div><div id="XyCpfb8I6nugmJUX3v7e9BIgskqVWbRP" class="widget widget-container clearfix"><label id="v1TwCAcwnr4apR7uJTRmLkXdgstK0t6Z" class="widget widget-text widget-regular-label widget-label"for="ZRSkBMPukAeu47AlfEfoDNkyo1awObmi">Département</label><select class="widget-select widget widget-input-select" id="ZRSkBMPukAeu47AlfEfoDNkyo1awObmi"  placeholder="D&eacute;partement" parentId="aCEMmRzw1fxla01SXbTvHMZsGEfblhOH"  name="select3" ><option value selected  disabled hidden>D&eacute;partement</option><option value="Directeur g&eacute;n&eacute;ral" >Directeur g&eacute;n&eacute;ral</option><option value="D&eacute;veloppeur" >D&eacute;veloppeur</option><option value="Ing&eacute;nieur" >Ing&eacute;nieur</option><option value="Donn&eacute;es/D&eacute;cisionnel" >Donn&eacute;es/D&eacute;cisionnel</option><option value="Architecte logiciel" >Architecte logiciel</option><option value="Architecte de syst&egrave;mes/solutions" >Architecte de syst&egrave;mes/solutions</option><option value="Technologies de l&rsquo;information" >Technologies de l&rsquo;information</option><option value="Finance" >Finance</option><option value="Op&eacute;rations" >Op&eacute;rations</option><option value="S&eacute;curit&eacute;" >S&eacute;curit&eacute;</option><option value="Marketing/Ventes" >Marketing/Ventes</option><option value="Administrateur de bases de donn&eacute;es" >Administrateur de bases de donn&eacute;es</option></select></div><div id="CAbifXpWAotLybTN08IuTGwKaFB9QEok" class="widget widget-container clearfix"><label id="VH4aBhXKvqyccFVIboMOKeEDlU2Cp0Wu" class="widget widget-text widget-regular-label widget-label"for="lrmCzQSBP0bZZxz2UlFmgwlCwCJLmshN">Phone</label><input class="widget widget-input-text" id="lrmCzQSBP0bZZxz2UlFmgwlCwCJLmshN"  type="tel" subtype="phone" placeholder="T&eacute;l&eacute;phoner" parentId="aCEMmRzw1fxla01SXbTvHMZsGEfblhOH"  name="phone"  value="" ></div><div id="TgZ12OZAOpCa6Mcd66wVeMJILkMTa8T4" class="widget widget-container clearfix"><label id="PJHmCg5qd85xpPP0Agix1AHJN46uOG5Z" class="widget widget-text widget-regular-label widget-label"for="qwRtSGTU0syGZCgNthQxLfFpRdxAFCSR">Country</label><select class="widget-select widget widget-input-select" id="qwRtSGTU0syGZCgNthQxLfFpRdxAFCSR"  placeholder="De campagne" parentId="aCEMmRzw1fxla01SXbTvHMZsGEfblhOH"  name="select" ><option value selected  disabled hidden>De campagne</option><option value="United States" >United States</option><option value="Canada" >Canada</option><option value="United Kingdom" >United Kingdom</option><option value="Afghanistan" >Afghanistan</option><option value="Albania" >Albania</option><option value="American Samoa" >American Samoa</option><option value="Andorra" >Andorra</option><option value="Angola" >Angola</option><option value="Anguilla" >Anguilla</option><option value="Antarctica" >Antarctica</option><option value="Argentina" >Argentina</option><option value="Antigua and Barbuda" >Antigua and Barbuda</option><option value="Armenia" >Armenia</option><option value="Aruba" >Aruba</option><option value="Ascension Island" >Ascension Island</option><option value="Australia" >Australia</option><option value="Austria" >Austria</option><option value="Azerbaijan" >Azerbaijan</option><option value="Bahamas" >Bahamas</option><option value="Bahrain" >Bahrain</option><option value="Bangladesh" >Bangladesh</option><option value="Barbados" >Barbados</option><option value="Belarus" >Belarus</option><option value="Belgium" >Belgium</option><option value="Belize" >Belize</option><option value="Benin" >Benin</option><option value="Bermuda" >Bermuda</option><option value="Bhutan" >Bhutan</option><option value="Bolivia" >Bolivia</option><option value="Bosnia and Herzegovina" >Bosnia and Herzegovina</option><option value="Botswana" >Botswana</option><option value="Bouvet Island" >Bouvet Island</option><option value="Brazil" >Brazil</option><option value="British Indian Ocean Territory" >British Indian Ocean Territory</option><option value="British Virgin Islands" >British Virgin Islands</option><option value="Brunei" >Brunei</option><option value="Bulgaria" >Bulgaria</option><option value="Burkina Faso" >Burkina Faso</option><option value="Burundi" >Burundi</option><option value="Cambodia" >Cambodia</option><option value="Cameroon" >Cameroon</option><option value="Canary Islands" >Canary Islands</option><option value="Cape Verde" >Cape Verde</option><option value="Caribbean Netherlands" >Caribbean Netherlands</option><option value="Cayman Islands" >Cayman Islands</option><option value="Central African Republic" >Central African Republic</option><option value="Ceuta and Melilla" >Ceuta and Melilla</option><option value="Chad" >Chad</option><option value="Chile" >Chile</option><option value="China" >China</option><option value="Christmas Island" >Christmas Island</option><option value="Clipperton Island" >Clipperton Island</option><option value="Cocos [Keeling] Islands" >Cocos [Keeling] Islands</option><option value="Colombia" >Colombia</option><option value="Comoros" >Comoros</option><option value="Congo - Brazzaville" >Congo - Brazzaville</option><option value="Congo - Kinshasa" >Congo - Kinshasa</option><option value="Cook Islands" >Cook Islands</option><option value="Costa Rica" >Costa Rica</option><option value="Croatia" >Croatia</option><option value="Cuba" >Cuba</option><option value="Cura&ccedil;ao" >Cura&ccedil;ao</option><option value="Cyprus" >Cyprus</option><option value="Czech Republic" >Czech Republic</option><option value="C&ocirc;te d&rsquo;Ivoire" >C&ocirc;te d&rsquo;Ivoire</option><option value="Denmark" >Denmark</option><option value="Diego Garcia" >Diego Garcia</option><option value="Djibouti" >Djibouti</option><option value="Dominica" >Dominica</option><option value="Dominican Republic" >Dominican Republic</option><option value="Ecuador" >Ecuador</option><option value="Egypt" >Egypt</option><option value="El Salvador" >El Salvador</option><option value="Equatorial Guinea" >Equatorial Guinea</option><option value="Eritrea" >Eritrea</option><option value="Estonia" >Estonia</option><option value="Ethiopia" >Ethiopia</option><option value="Falkland Islands" >Falkland Islands</option><option value="Faroe Islands" >Faroe Islands</option><option value="Fiji" >Fiji</option><option value="Finland" >Finland</option><option value="France" >France</option><option value="French Guiana" >French Guiana</option><option value="French Polynesia" >French Polynesia</option><option value="French Southern Territories" >French Southern Territories</option><option value="Gabon" >Gabon</option><option value="Gambia" >Gambia</option><option value="Georgia" >Georgia</option><option value="Germany" >Germany</option><option value="Ghana" >Ghana</option><option value="Gibraltar" >Gibraltar</option><option value="Greece" >Greece</option><option value="Greenland" >Greenland</option><option value="Grenada" >Grenada</option><option value="Guadeloupe" >Guadeloupe</option><option value="Guam" >Guam</option><option value="Guatemala" >Guatemala</option><option value="Guernsey" >Guernsey</option><option value="Guinea" >Guinea</option><option value="Guinea-Bissau" >Guinea-Bissau</option><option value="Guyana" >Guyana</option><option value="Haiti" >Haiti</option><option value="Heard Island and McDonald Islands" >Heard Island and McDonald Islands</option><option value="Honduras" >Honduras</option><option value="Hong Kong SAR China" >10Hong Kong SAR China5</option><option value="Hungary" >Hungary</option><option value="Iceland" >Iceland</option><option value="India" >India</option><option value="Indonesia" >Indonesia</option><option value="Iran" >Iran</option><option value="Iraq" >Iraq</option><option value="Ireland" >Ireland</option><option value="Isle of Man" >Isle of Man</option><option value="Israel" >Israel</option><option value="Italy" >Italy</option><option value="Jamaica" >Jamaica</option><option value="Japan" >Japan</option><option value="Jersey" >Jersey</option><option value="Jordan" >Jordan</option><option value="Kazakhstan" >Kazakhstan</option><option value="Kenya" >Kenya</option><option value="Kiribati" >Kiribati</option><option value="Kosovo" >Kosovo</option><option value="Kuwait" >Kuwait</option><option value="Kyrgyzstan" >Kyrgyzstan</option><option value="Laos" >Laos</option><option value="Latvia" >Latvia</option><option value="Lebanon" >Lebanon</option><option value="Lesotho" >Lesotho</option><option value="Liberia" >Liberia</option><option value="Libya" >Libya</option><option value="Liechtenstein" >Liechtenstein</option><option value="Lithuania" >Lithuania</option><option value="Luxembourg" >Luxembourg</option><option value="Macau SAR China" >Macau SAR China</option><option value="Macedonia" >Macedonia</option><option value="Madagascar" >Madagascar</option><option value="Malawi" >Malawi</option><option value="Malaysia" >Malaysia</option><option value="Maldives" >Maldives</option><option value="Mali" >Mali</option><option value="Malta" >Malta</option><option value="Marshall Islands" >Marshall Islands</option><option value="Martinique" >Martinique</option><option value="Mauritania" >Mauritania</option><option value="Mauritius" >Mauritius</option><option value="Mayotte" >Mayotte</option><option value="Mexico" >Mexico</option><option value="Micronesia" >Micronesia</option><option value="Moldova" >Moldova</option><option value="Monaco" >Monaco</option><option value="Mongolia" >Mongolia</option><option value="Montenegro" >Montenegro</option><option value="Montserrat" >Montserrat</option><option value="Morocco" >Morocco</option><option value="Mozambique" >Mozambique</option><option value="Myanmar [Burma]" >Myanmar [Burma]</option><option value="Namibia" >Namibia</option><option value="Nauru" >Nauru</option><option value="Nepal" >Nepal</option><option value="Netherlands" >Netherlands</option><option value="Netherlands Antilles" >Netherlands Antilles</option><option value="New Caledonia" >New Caledonia</option><option value="New Zealand" >New Zealand</option><option value="Nicaragua" >Nicaragua</option><option value="Niger" >Niger</option><option value="Nigeria" >Nigeria</option><option value="Niue" >Niue</option><option value="Norfolk Island" >Norfolk Island</option><option value="Northern Mariana Islands" >Northern Mariana Islands</option><option value="North Korea" >North Korea</option><option value="Norway" >Norway</option><option value="Oman" >Oman</option><option value="Outlying Oceania" >Outlying Oceania</option><option value="Pakistan" >Pakistan</option><option value="Palau" >Palau</option><option value="Palestinian Territories" >Palestinian Territories</option><option value="Panama" >Panama</option><option value="Papua New Guinea" >Papua New Guinea</option><option value="Paraguay" >Paraguay</option><option value="Peru" >Peru</option><option value="Philippines" >Philippines</option><option value="Pitcairn Islands" >Pitcairn Islands</option><option value="Poland" >Poland</option><option value="Portugal" >Portugal</option><option value="Puerto Rico" >Puerto Rico</option><option value="Qatar" >Qatar</option><option value="Romania" >Romania</option><option value="Rwanda" >Rwanda</option><option value="R&eacute;union" >R&eacute;union</option><option value="Saint Barth&eacute;lemy" >Saint Barth&eacute;lemy</option><option value="193Saint Helena" >Saint Helena</option><option value="Saint Kitts and Nevis" >Saint Kitts and Nevis</option><option value="Saint Lucia" >Saint Lucia</option><option value="Saint Martin" >Saint Martin</option><option value="Saint Pierre and Miquelon" >Saint Pierre and Miquelon</option><option value="Saint Vincent and the Grenadines" >Saint Vincent and the Grenadines</option><option value="Samoa" >Samoa</option><option value="San Marino" >San Marino</option><option value="Saudi Arabia" >Saudi Arabia</option><option value="Senegal" >Senegal</option><option value="Serbia" >Serbia</option><option value="Seychelles" >Seychelles</option><option value="Sierra Leone" >Sierra Leone</option><option value="Singapore" >Singapore</option><option value="Sint Maarten" >Sint Maarten</option><option value="Slovakia" >Slovakia</option><option value="Slovenia" >Slovenia</option><option value="Solomon Islands" >Solomon Islands</option><option value="Somalia" >Somalia</option><option value="South Africa" >South Africa</option><option value="South Georgia and the South Sandwich Islands" >South Georgia and the South Sandwich Islands</option><option value="South Korea" >South Korea</option><option value="South Sudan" >South Sudan</option><option value="Spain" >Spain</option><option value="Sri Lanka" >Sri Lanka</option><option value="Sudan" >Sudan</option><option value="Suriname" >Suriname</option><option value="Svalbard and Jan Mayen" >Svalbard and Jan Mayen</option><option value="Swaziland" >Swaziland</option><option value="Sweden" >Sweden</option><option value="Switzerland" >Switzerland</option><option value="Syria" >Syria</option><option value="S&atilde;o Tom&eacute; and Pr&iacute;ncipe" >S&atilde;o Tom&eacute; and Pr&iacute;ncipe</option><option value="Taiwan" >Taiwan</option><option value="Tajikistan" >Tajikistan</option><option value="Tanzania" >Tanzania</option><option value="Thailand" >Thailand</option><option value="Timor-Leste" >Timor-Leste</option><option value="Togo" >Togo</option><option value="Tokelau" >Tokelau</option><option value="Tonga" >Tonga</option><option value="Trinidad and Tobago" >Trinidad and Tobago</option><option value="Tristan da Cunha" >Tristan da Cunha</option><option value="Tunisia" >Tunisia</option><option value="Turkey" >Turkey</option><option value="Turkmenistan" >Turkmenistan</option><option value="Turks and Caicos Islands" >Turks and Caicos Islands</option><option value="Tuvalu" >Tuvalu</option><option value="U.S. Outlying Islands" >U.S. Outlying Islands</option><option value="U.S. Virgin Islands" >U.S. Virgin Islands</option><option value="Uganda" >Uganda</option><option value="Ukraine" >Ukraine</option><option value="United Arab Emirates" >United Arab Emirates</option><option value="Uruguay" >Uruguay</option><option value="Uzbekistan" >Uzbekistan</option><option value="Vanuatu" >Vanuatu</option><option value="Vatican City" >Vatican City</option><option value="Venezuela" >Venezuela</option><option value="Vietnam" >Vietnam</option><option value="Wallis and Futuna" >Wallis and Futuna</option><option value="Western Sahara" >Western Sahara</option><option value="Yemen" >Yemen</option><option value="Zambia" >Zambia</option><option value="Zimbabwe" >Zimbabwe</option><option value="&Aring;land Islands" >&Aring;land Islands</option></select></div><div id="nVBTL2fNSm7eIT9uR3Z4GkiDu6q4afnF" class="widget widget-container clearfix">
+    <input class="widget widget-input-checkbox" type="checkbox"  id="hoVWmABClZF01HI36vBNUVxFTFDLlcdG"  type="checkbox" parentId="aCEMmRzw1fxla01SXbTvHMZsGEfblhOH"  name="checkbox"   ><label id="KqLEA3Gb16KxzQR7kH8DqTLG6dJeT7xJ" class="widget widget-text widget-checkbox-label widget-label"for="hoVWmABClZF01HI36vBNUVxFTFDLlcdG"><p>Je souhaite recevoir des informations, des conseils et des offres sur les solutions pour les entreprises et les organisations ainsi que pour d’autres produits et services Microsoft. <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Déclaration de confidentialité.</a></p></label>
+</div><div id="sf314K3uIb6vNILT3dlCVl7tSAVSS19w" class="widget widget-container input-button-container clearfix"><button class="widget widget-input-button" type="submit" id="kOMh0kdf3OTVxfD16PLFIOoSugS8G9Wd"  parentId="aCEMmRzw1fxla01SXbTvHMZsGEfblhOH"><div class="widget-overlay"></div>Télécharger maintenant</button></div><input type="hidden"    name="_name_"  value=""><input type="hidden"    name="_lead_uuid"  value=""><input type="hidden" name="_uid" value="aCEMmRzw1fxla01SXbTvHMZsGEfblhOH"><input type="hidden" name="_redirect" value=""></form>
+        </div>
+    </div>
+</div>
+<div id="ke1cv2JwFmEPyLBDq7MbCkpi57AOump8" class="widget widget-section lazyload" >
+    <div class="row">
+        
+        <div class="container lazyload" >
+            
+            <div id="R1F05nCHNPmXlnUNMXiUTmO9hNipp0Sa" class="widget widget-text"><p>Get future-ready and protect your VMware workloads by migrating them to Azure. Read the e-book, The Ultimate Guide to VMware Migration and Modernization on Azure, to get a comprehensive view of migration options available through Azure, like:</p></div><div id="o31yuwDS9JAqRcLZk5inExgpoUA6W1su" class="widget widget-text"><ul><li>Lift-and-shift migration using Azure VMWare Solution, which allows you to quickly move workloads and keep using familiar VMware tools.</li><li>Direct deployment from VMware on to Azure infrastructure as a service (IaaS).</li><li>A combination of direct and lift-and-shift migration, which enables you to securely move workloads between environments with built-in security features like identity and access management.</li></ul></div><div id="L3Lxv2hvHO2hv6DWT4GMNcTWNiOUT8bF" class="widget widget-text"><p>Regardless of which option you choose, you’ll immediately gain the enhanced security, improved resiliency, and scalability of Azure.</p></div>
+        </div>
+    </div>
+</div><script type="text/javascript" src="//assetslp.link/assets/js/landend/jquery-3-6-0.min.js" fetchpriority="high"></script><script async type="text/javascript" src="https://old.assets-landingi.com/bootstrap/js/landend.bootstrap.min.js"></script><script async type="text/javascript" src="https://scripts.assets-landingi.com/webview/webview.1.0.2.js"></script><script type="text/javascript" src="https://old.assets-landingi.com/assets/js/dist/landend/300123/landend.js"></script>        <script src="/assets/js/landend/frodo.js"></script>
+<script>
+const lpStatsModule = (function () {    
+    const url = "https://stats.landingi.com/visit/1566466";
+    const data = {"lid":1566466,"luuid":"63d13094-5162-4703-a456-905eae26486d","lhash":"5aa9b7f266d6feda7533","fid":1566466,"auuid":"b065abe0-6e03-11ea-bff9-42b3a1540b74","acid":199539,"agid":null,"tid":null,"hasAccessToEventTracker":false,"hasAccessToEventTrackerDev":false};
+    const cookieName = "ls_sid_1566466";
+
+    if (data.hasAccessToEventTrackerDev) { 
+        console.log('Running runScript in dev mode')
+        frodo.runScriptDev(cookieName, url, data)
+    } else {
+        frodo.runScript(cookieName, url, data)
+    }
+
+    return {
+        getData: function() { return data; },
+        cookieName: function() { return cookieName; },
+        endpoint: function() { return url; },
+        path: function() { return path; }
+    };
+})();
+</script><script defer type="text/javascript" src="https://scripts.assets-landingi.com/landend/160721/files.js"></script><script defer fetchpriority="low" type="text/javascript" src="https://old.assets-landingi.com/assets/js/vendor/jquery-form/jquery.form.min.js"></script> <script type="text/javascript" src="https://scripts.assets-landingi.com/landend/250423/landend.min.js"></script><script defer fetchpriority="low" type="text/javascript" src="https://old.assets-landingi.com/assets/js/landend/260820/validation.js"></script><script> 
+document.documentElement.lang = "en";
+function hotFix()
+{
+	for(var i=0;i<=20;i++)
+	{
+    	document.getElementsByTagName("select")[i].removeAttribute("aria-label");
+	document.getElementsByTagName("select")[i].setAttribute("aria-label", "New Label");
+
+	}
+}
+hotFix();
+</script><script>
+var selectElement = document.querySelector('select[placeholder="De campagne"]');
+// Remove all existing options from the select element
+selectElement.innerHTML = '';
+// Create a placeholder option
+var placeholderOption = document.createElement('option');
+placeholderOption.value = '';
+placeholderOption.text = "De campagne"; // Replace with your desired placeholder text
+// Append the placeholder option to the select element
+selectElement.appendChild(placeholderOption);
+var countries = [
+{ value: "Afghanistan", text: "Afghanistan" },
+{ value: "Åland Islands", text: "Îles Åland" },
+{ value: "Albania", text: "Albanie" },
+{ value: "Algeria", text: "Algérie" },
+{ value: "American Samoa", text: "Samoa américaines" },
+{ value: "Andorra", text: "Andorre" },
+{ value: "Angola", text: "Angola" },
+{ value: "Anguilla", text: "Anguilla" },
+{ value: "Antarctica", text: "Antarctique" },
+{ value: "Antigua and Barbuda", text: "Antigua-et-Barbuda" },
+{ value: "Argentina", text: "Argentine" },
+{ value: "Armenia", text: "Arménie" },
+{ value: "Aruba", text: "Aruba" },
+{ value: "Australia", text: "Australie" },
+{ value: "Austria", text: "Autriche" },
+{ value: "Azerbaijan", text: "Azerbaïdjan" },
+{ value: "Bahamas", text: "Bahamas" },
+{ value: "Bahrain", text: "Bahreïn" },
+{ value: "Bangladesh", text: "Bangladesh" },
+{ value: "Barbados", text: "Barbade" },
+{ value: "Belarus", text: "Biélorussie" },
+{ value: "Belgium", text: "Belgique" },
+{ value: "Belize", text: "Belize" },
+{ value: "Benin", text: "Bénin" },
+{ value: "Bermuda", text: "Bermudes" },
+{ value: "Bhutan", text: "Bhoutan" },
+{ value: "Bolivia", text: "Bolivie" },
+{ value: "Bonaire", text: "Bonaire" },
+{ value: "Bosnia and Herzegovina", text: "Bosnie-Herzégovine" },
+{ value: "Botswana", text: "Botswana" },
+{ value: "Bouvet Island", text: "Île Bouvet" },
+{ value: "Brazil", text: "Brésil" },
+{ value: "British Indian Ocean Territory", text: "Territoire britannique de l'océan Indien" },
+{ value: "British Virgin Islands", text: "Îles Vierges britanniques" },
+{ value: "Brunei", text: "Brunei" },
+{ value: "Bulgaria", text: "Bulgarie" },
+{ value: "Burkina Faso", text: "Burkina Faso" },
+{ value: "Burundi", text: "Burundi" },
+{ value: "Cabo Verde", text: "Cap-Vert" },
+{ value: "Cambodia", text: "Cambodge" },
+{ value: "Cameroon", text: "Cameroun" },
+{ value: "Canada", text: "Canada" },
+{ value: "Cayman Islands", text: "Îles Caïmans" },
+{ value: "Central African Republic", text: "République centrafricaine" },
+{ value: "Chad", text: "Tchad" },
+{ value: "Chile", text: "Chili" },
+{ value: "China", text: "Chine" },
+{ value: "Christmas Island", text: "Île Christmas" },
+{ value: "Cocos (Keeling) Islands", text: "Îles Cocos" },
+{ value: "Colombia", text: "Colombie" },
+{ value: "Comoros", text: "Comores" },
+{ value: "Congo", text: "Congo" },
+{ value: "Congo (DRC)", text: "République démocratique du Congo" },
+{ value: "Cook Islands", text: "Îles Cook" },
+{ value: "Costa Rica", text: "Costa Rica" },
+{ value: "Côte d’Ivoire", text: "Côte d’Ivoire" },
+{ value: "Croatia", text: "Croatie" },
+{ value: "Cuba", text: "Cuba" },
+{ value: "Curaçao", text: "Curaçao" },
+{ value: "Cyprus", text: "Chypre" },
+{ value: "Czechia", text: "République tchèque" },
+{ value: "Denmark", text: "Danemark" },
+{ value: "Djibouti", text: "Djibouti" },
+{ value: "Dominica", text: "Dominique" },
+{ value: "Dominican Republic", text: "République Dominicaine" },
+{ value: "Ecuador", text: "Équateur" },
+{ value: "Egypt", text: "Égypte" },
+{ value: "El Salvador", text: "Salvador" },
+{ value: "Equatorial Guinea", text: "Guinée équatoriale" },
+{ value: "Eritrea", text: "Érythrée" },
+{ value: "Estonia", text: "Estonie" },
+{ value: "Eswatini", text: "Eswatini" },
+{ value: "Ethiopia", text: "Éthiopie" },
+{ value: "Falkland Islands", text: "Îles Malouines" },
+{ value: "Faroe Islands", text: "Îles Féroé" },
+{ value: "Fiji", text: "Fidji" },
+{ value: "Finland", text: "Finlande" },
+{ value: "France", text: "France" },
+{ value: "French Guiana", text: "Guyane" },
+{ value: "French Polynesia", text: "Polynésie française" },
+{ value: "French Southern Territories", text: "Terres australes et antarctiques françaises" },
+{ value: "Gabon", text: "Gabon" },
+{ value: "Gambia", text: "Gambie" },
+{ value: "Georgia", text: "Géorgie" },
+{ value: "Germany", text: "Allemagne" },
+{ value: "Ghana", text: "Ghana" },
+{ value: "Gibraltar", text: "Gibraltar" },
+{ value: "Greece", text: "Grèce" },
+{ value: "Greenland", text: "Groenland" },
+{ value: "Grenada", text: "Grenade" },
+{ value: "Guadeloupe", text: "Guadeloupe" },
+{ value: "Guam", text: "Guam" },
+{ value: "Guatemala", text: "Guatemala" },
+{ value: "Guernsey", text: "Guernesey" },
+{ value: "Guinea", text: "Guinée" },
+{ value: "Guinea-Bissau", text: "Guinée-Bissau" },
+{ value: "Guyana", text: "Guyana" },
+{ value: "Haiti", text: "Haïti" },
+{ value: "Heard Island and McDonald Islands", text: "Îles Heard-et-MacDonald" },
+{ value: "Honduras", text: "Honduras" },
+{ value: "Hong Kong", text: "Hong Kong" },
+{ value: "Hungary", text: "Hongrie" },
+{ value: "Iceland", text: "Islande" },
+{ value: "India", text: "Inde" },
+{ value: "Indonesia", text: "Indonésie" },
+{ value: "Iran", text: "Iran" },
+{ value: "Iraq", text: "Irak" },
+{ value: "Ireland", text: "Irlande" },
+{ value: "Isle of Man", text: "Île de Man" },
+{ value: "Israel", text: "Israël" },
+{ value: "Italy", text: "Italie" },
+{ value: "Jamaica", text: "Jamaïque" },
+{ value: "Jan Mayen", text: "Île Jan Mayen" },
+{ value: "Japan", text: "Japon" },
+{ value: "Jersey", text: "Jersey" },
+{ value: "Jordan", text: "Jordanie" },
+{ value: "Kazakhstan", text: "Kazakhstan" },
+{ value: "Kenya", text: "Kenya" },
+{ value: "Kiribati", text: "Kiribati" },
+{ value: "Korea", text: "Corée" },
+{ value: "Kosovo", text: "Kosovo" },
+{ value: "Kuwait", text: "Koweït" },
+{ value: "Kyrgyzstan", text: "Kirghizistan" },
+{ value: "Laos", text: "Laos" },
+{ value: "Latvia", text: "Lettonie" },
+{ value: "Lebanon", text: "Liban" },
+{ value: "Lesotho", text: "Lesotho" },
+{ value: "Liberia", text: "Liberia" },
+{ value: "Libya", text: "Libye" },
+{ value: "Liechtenstein", text: "Liechtenstein" },
+{ value: "Lithuania", text: "Lituanie" },
+{ value: "Luxembourg", text: "Luxembourg" },
+{ value: "Macao SAR", text: "RAS Macao" },
+{ value: "Madagascar", text: "Madagascar" },
+{ value: "Malawi", text: "Malawi" },
+{ value: "Malaysia", text: "Malaisie" },
+{ value: "Maldives", text: "Maldives" },
+{ value: "Mali", text: "Mali" },
+{ value: "Malta", text: "Malte" },
+{ value: "Marshall Islands", text: "Îles Marshall" },
+{ value: "Martinique", text: "Martinique" },
+{ value: "Mauritania", text: "Mauritanie" },
+{ value: "Mauritius", text: "Maurice" },
+{ value: "Mayotte", text: "Mayotte" },
+{ value: "Mexico", text: "Mexique" },
+{ value: "Micronesia", text: "Micronésie" },
+{ value: "Moldova", text: "Moldavie" },
+{ value: "Monaco", text: "Monaco" },
+{ value: "Mongolia", text: "Mongolie" },
+{ value: "Montenegro", text: "Monténégro" },
+{ value: "Montserrat", text: "Montserrat" },
+{ value: "Morocco", text: "Maroc" },
+{ value: "Mozambique", text: "Mozambique" },
+{ value: "Myanmar", text: "Birmanie" },
+{ value: "Namibia", text: "Namibie" },
+{ value: "Nauru", text: "Nauru" },
+{ value: "Nepal", text: "Népal" },
+{ value: "Netherlands", text: "Pays-Bas" },
+{ value: "New Caledonia", text: "Nouvelle-Calédonie" },
+{ value: "New Zealand", text: "Nouvelle-Zélande" },
+{ value: "Nicaragua", text: "Nicaragua" },
+{ value: "Niger", text: "Niger" },
+{ value: "Nigeria", text: "Nigeria" },
+{ value: "Niue", text: "Niue" },
+{ value: "Norfolk Island", text: "Île Norfolk" },
+{ value: "North Korea", text: "Corée du Nord" },
+{ value: "North Macedonia", text: "Macédoine du Nord" },
+{ value: "Northern Mariana Islands", text: "Îles Mariannes du Nord" },
+{ value: "Norway", text: "Norvège" },
+{ value: "Oman", text: "Oman" },
+{ value: "Pakistan", text: "Pakistan" },
+{ value: "Palau", text: "Palaos" },
+{ value: "Palestinian Authority", text: "Autorité palestinienne" },
+{ value: "Panama", text: "Panama" },
+{ value: "Papua New Guinea", text: "Papouasie-Nouvelle-Guinée" },
+{ value: "Paraguay", text: "Paraguay" },
+{ value: "Peru", text: "Pérou" },
+{ value: "Philippines", text: "Philippines" },
+{ value: "Pitcairn Islands", text: "Îles Pitcairn" },
+{ value: "Poland", text: "Pologne" },
+{ value: "Portugal", text: "Portugal" },
+{ value: "Puerto Rico", text: "Porto Rico" },
+{ value: "Qatar", text: "Qatar" },
+{ value: "Réunion", text: "Réunion" },
+{ value: "Romania", text: "Roumanie" },
+{ value: "Russia", text: "Russie" },
+{ value: "Rwanda", text: "Rwanda" },
+{ value: "Saba", text: "Saba" },
+{ value: "Saint Barthélemy", text: "Saint-Barthélemy" },
+{ value: "Saint Kitts and Nevis", text: "Saint-Christophe-et-Niévès" },
+{ value: "Saint Lucia", text: "Sainte-Lucie" },
+{ value: "Saint Martin", text: "Saint-Martin" },
+{ value: "Saint Pierre and Miquelon", text: "Saint-Pierre-et-Miquelon" },
+{ value: "Saint Vincent and the Grenadines", text: "Saint-Vincent-et-les-Grenadines" },
+{ value: "Samoa", text: "Samoa" },
+{ value: "San Marino", text: "Saint-Marin" },
+{ value: "São Tomé and Príncipe", text: "Sao Tomé-et-Principe" },
+{ value: "Saudi Arabia", text: "Arabie saoudite" },
+{ value: "Senegal", text: "Sénégal" },
+{ value: "Serbia", text: "Serbie" },
+{ value: "Seychelles", text: "Seychelles" },
+{ value: "Sierra Leone", text: "Sierra Leone" },
+{ value: "Singapore", text: "Singapour" },
+{ value: "Sint Eustatius", text: "Saint-Eustache" },
+{ value: "Sint Maarten", text: "Saint-Martin" },
+{ value: "Slovakia", text: "Slovaquie" },
+{ value: "Slovenia", text: "Slovénie" },
+{ value: "Solomon Islands", text: "Îles Salomon" },
+{ value: "Somalia", text: "Somalie" },
+{ value: "South Africa", text: "Afrique du Sud" },
+{ value: "South Georgia and South Sandwich Islands", text: "Géorgie du Sud-et-les Îles Sandwich du Sud" },
+{ value: "South Sudan", text: "Soudan du Sud" },
+{ value: "Spain", text: "Espagne" },
+{ value: "Sri Lanka", text: "Sri Lanka" },
+{ value: "St Helena, Ascension, Tristan da Cunha", text: "Sainte-Hélène, Ascension et Tristan da Cunha" },
+{ value: "Sudan", text: "Soudan" },
+{ value: "Suriname", text: "Suriname" },
+{ value: "Svalbard", text: "Svalbard" },
+{ value: "Sweden", text: "Suède" },
+{ value: "Switzerland", text: "Suisse" },
+{ value: "Syria", text: "Syrie" },
+{ value: "Taiwan", text: "Taïwan" },
+{ value: "Tajikistan", text: "Tadjikistan" },
+{ value: "Tanzania", text: "Tanzanie" },
+{ value: "Thailand", text: "Thaïlande" },
+{ value: "Timor-Leste", text: "Timor oriental" },
+{ value: "Togo", text: "Togo" },
+{ value: "Tokelau", text: "Tokelau" },
+{ value: "Tonga", text: "Tonga" },
+{ value: "Trinidad and Tobago", text: "Trinité-et-Tobago" },
+{ value: "Tunisia", text: "Tunisie" },
+{ value: "Türkiye", text: "Turquie" },
+{ value: "Turkmenistan", text: "Turkménistan" },
+{ value: "Turks and Caicos Islands", text: "Îles Turks-et-Caïcos" },
+{ value: "Tuvalu", text: "Tuvalu" },
+{ value: "U.S. Outlying Islands", text: "Îles mineures éloignées des États-Unis" },
+{ value: "U.S. Virgin Islands", text: "Îles Vierges des États-Unis" },
+{ value: "Uganda", text: "Ouganda" },
+{ value: "Ukraine", text: "Ukraine" },
+{ value: "United Arab Emirates", text: "Émirats arabes unis" },
+{ value: "United Kingdom", text: "Royaume-Uni" },
+{ value: "United States", text: "États-Unis" },
+{ value: "Uruguay", text: "Uruguay" },
+{ value: "Uzbekistan", text: "Ouzbékistan" },
+{ value: "Vanuatu", text: "Vanuatu" },
+{ value: "Vatican City", text: "Vatican" },
+{ value: "Venezuela", text: "Venezuela" },
+{ value: "Vietnam", text: "Vietnam" },
+{ value: "Wallis and Futuna", text: "Wallis-et-Futuna" },
+{ value: "Yemen", text: "Yémen" },
+{ value: "Zambia", text: "Zambie" },
+{ value: "Zimbabwe", text: "Zimbabwe" },
+{ value: "Albanian", text: "Albanais" },
+{ value: "Arabic", text: "Arabe" },
+{ value: "Armenian", text: "Arménien" },
+{ value: "Bosnian", text: "Bosniaque" },
+{ value: "Bulgarian", text: "Bulgare" },
+{ value: "Chinese", text: "Chinois" },
+{ value: "Croatian", text: "Croate" },
+{ value: "Czech", text: "Tchèque" },
+{ value: "Danish", text: "Danois" },
+{ value: "Dutch", text: "Néerlandais" },
+{ value: "English", text: "Anglais" },
+{ value: "Estonian", text: "Estonien" },
+{ value: "Finnish", text: "Finnois" },
+{ value: "French", text: "Français" },
+{ value: "German", text: "Allemand" },
+{ value: "Greek", text: "Grec" },
+{ value: "Hebrew", text: "Hébreu" },
+{ value: "Hindi", text: "Hindi" },
+{ value: "Hungarian", text: "Hongrois" },
+{ value: "Indonesian", text: "Indonésien" },
+{ value: "Italian", text: "Italien" },
+{ value: "Japanese", text: "Japonais" },
+{ value: "Korean", text: "Coréen" },
+{ value: "Latvian", text: "Letton" },
+{ value: "Lithuanian", text: "Lituanien" },
+{ value: "Macedonian", text: "Macédonien" },
+{ value: "Malay", text: "Malais" },
+{ value: "Norwegian", text: "Norvégien" },
+{ value: "Polish", text: "Polonais" },
+{ value: "Portuguese", text: "Portugais" },
+{ value: "Romanian", text: "Roumain" },
+{ value: "Russian", text: "Russe" },
+{ value: "Serbian", text: "Serbe" },
+{ value: "Slovakian", text: "Slovaque" },
+{ value: "Slovenian", text: "Slovène" },
+{ value: "Spanish", text: "Espagnol" },
+{ value: "Swedish", text: "Suédois" },
+{ value: "Tajik", text: "Tadjik" },
+{ value: "Thai", text: "Thaï" },
+{ value: "Turkish", text: "Turc" },
+{ value: "Ukranian", text: "Ukrainien" },
+{ value: "Vietnamese", text: "Vietnamien" }
+];
+// Populate the select element with options
+for (var i = 0; i < countries.length; i++) {
+  var option = document.createElement('option');
+  option.value = countries[i].value;
+  option.text = countries[i].text;
+  selectElement.appendChild(option);
+}
+selectElement.options[0].style.display = 'none';
+</script><script> 
+document.documentElement.lang = "en";
+function hotFix()
+{
+	for(var i=0;i<=20;i++)
+	{
+    	document.getElementsByTagName("select")[i].removeAttribute("aria-label");
+	document.getElementsByTagName("select")[i].setAttribute("aria-label", "New Label");
+
+	}
+}
+hotFix();
+</script></body></html>

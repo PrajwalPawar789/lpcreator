@@ -636,7 +636,65 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
 			<div class="upk-wrapper">
 				<div class="swiper-carousel swiper-container">
 					<div class="swiper-wrapper">
-											<div onclick="window.open(&#039;https://thecioworld.com/turkish-airlines-looks-into-collaborating-with-rex/&#039;, &#039;_self&#039;)" class="upk-item swiper-slide upk-transition-toggle">
+											<div onclick="window.open(&#039;https://thecioworld.com/following-a-china-regulators-assurance-on-new-regulations-tencent-and-netease-shares-rise/&#039;, &#039;_self&#039;)" class="upk-item swiper-slide upk-transition-toggle">
+							<div class="upk-image-wrap">
+										<img decoding="async" class="upk-image" src="https://thecioworld.com/wp-content/uploads/2023/12/Following-a-China-Regulators-Assurance-on-New-Regulations-Tencent-and-NetEase-Shares-Rise.jpg" alt="Following a China Regulator&#8217;s Assurance on New Regulations, Tencent and NetEase Shares Rise" title="International Business Magazine | Business Magazine Cover">
+	
+								<div class="upk-content">
+
+									<div class="upk-default-show">
+										<div class="upk-date-cetagory-wrap">
+													<div class="upk-flex">
+			<div class="upk-date">
+				December 27, 2023			</div>
+					</div>
+														<div class="upk-category">
+			<span>
+				<a href="https://thecioworld.com/category/news/">News</a>			</span>
+		</div>
+											</div>
+
+										<h3 class="upk-title"><a href="https://thecioworld.com/following-a-china-regulators-assurance-on-new-regulations-tencent-and-netease-shares-rise/" title="Following a China Regulator&#8217;s Assurance on New Regulations, Tencent and NetEase Shares Rise" class="upk-ramble-title">Following a China Regulator&#8217;s Assurance on New Regulations, Tencent and NetEase Shares Rise</a></h3>									</div>
+
+									<div class="upk-default-hide">
+													<div class="upk-meta">
+
+				
+				<div class="upk-author-name-date-wrap">
+
+					
+											<div class="upk-date-reading-time upk-flex upk-flex-middle">
+															<div data-separator="/">
+										<div class="upk-flex">
+			<div class="upk-date">
+				December 27, 2023			</div>
+					</div>
+									</div>
+							
+							
+						</div>
+					
+				</div>
+
+			</div>
+														<div class="upk-text">
+			<p>Chinese online gaming stocks, including Tencent, NetEase, and Bilibili, experienced a rebound in their share prices after China's top gaming regulator stated that it would "carefully study" the concerns of</p>
+		</div>
+											</div>
+
+								</div>
+								<div class="upk-btn-comments-wrap">
+									<div class="upk-btn-wrap upk-flex">
+												<a href="https://thecioworld.com/following-a-china-regulators-assurance-on-new-regulations-tencent-and-netease-shares-rise/" class="upk-readmore ">
+			<span class="upk-flex upk-flex-middle">
+				Read More
+							</span>
+		</a>
+										</div>
+																	</div>
+							</div>
+						</div>
+										<div onclick="window.open(&#039;https://thecioworld.com/turkish-airlines-looks-into-collaborating-with-rex/&#039;, &#039;_self&#039;)" class="upk-item swiper-slide upk-transition-toggle">
 							<div class="upk-image-wrap">
 										<img decoding="async" class="upk-image" src="https://thecioworld.com/wp-content/uploads/2023/12/Turkish-Airlines-Looks-into-Collaborating-with-Rex.jpg" alt="Turkish Airlines Looks into Collaborating with Rex" title="International Business Magazine | Business Magazine Cover">
 	
@@ -926,64 +984,6 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
 																	</div>
 							</div>
 						</div>
-										<div onclick="window.open(&#039;https://thecioworld.com/temu-files-a-new-lawsuit-against-shein-alleging-mafia-style-intimidation-against-its-competitor/&#039;, &#039;_self&#039;)" class="upk-item swiper-slide upk-transition-toggle">
-							<div class="upk-image-wrap">
-										<img decoding="async" class="upk-image" src="https://thecioworld.com/wp-content/uploads/2023/12/Temu-Files-a-New-Lawsuit-Against-Shein-Alleging-mafia-style-intimidation-Against-its-Competitor.jpg" alt="Temu Files a New Lawsuit Against Shein, Alleging &#8220;mafia-style intimidation&#8221; Against its Competitor" title="International Business Magazine | Business Magazine Cover">
-	
-								<div class="upk-content">
-
-									<div class="upk-default-show">
-										<div class="upk-date-cetagory-wrap">
-													<div class="upk-flex">
-			<div class="upk-date">
-				December 14, 2023			</div>
-					</div>
-														<div class="upk-category">
-			<span>
-				<a href="https://thecioworld.com/category/news/">News</a>			</span>
-		</div>
-											</div>
-
-										<h3 class="upk-title"><a href="https://thecioworld.com/temu-files-a-new-lawsuit-against-shein-alleging-mafia-style-intimidation-against-its-competitor/" title="Temu Files a New Lawsuit Against Shein, Alleging &#8220;mafia-style intimidation&#8221; Against its Competitor" class="upk-ramble-title">Temu Files a New Lawsuit Against Shein, Alleging &#8220;mafia-style intimidation&#8221; Against its Competitor</a></h3>									</div>
-
-									<div class="upk-default-hide">
-													<div class="upk-meta">
-
-				
-				<div class="upk-author-name-date-wrap">
-
-					
-											<div class="upk-date-reading-time upk-flex upk-flex-middle">
-															<div data-separator="/">
-										<div class="upk-flex">
-			<div class="upk-date">
-				December 14, 2023			</div>
-					</div>
-									</div>
-							
-							
-						</div>
-					
-				</div>
-
-			</div>
-														<div class="upk-text">
-			<p>Temu, a low-cost Chinese online retailer, has initiated a new lawsuit against its rival Shein, citing copyright infringement concerns and alleging "mafia-style intimidation of suppliers." The filing by Boston-based WhaleCo,</p>
-		</div>
-											</div>
-
-								</div>
-								<div class="upk-btn-comments-wrap">
-									<div class="upk-btn-wrap upk-flex">
-												<a href="https://thecioworld.com/temu-files-a-new-lawsuit-against-shein-alleging-mafia-style-intimidation-against-its-competitor/" class="upk-readmore ">
-			<span class="upk-flex upk-flex-middle">
-				Read More
-							</span>
-		</a>
-										</div>
-																	</div>
-							</div>
-						</div>
 						</div>
 				</div>
 		
@@ -1048,6 +1048,38 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
 				<div class="swiper-carousel swiper-container">
 					<div class="swiper-wrapper">
 											<div class="upk-item swiper-slide">
+							<div class="upk-item-box">
+								<div class="upk-img-wrap">
+									<div class="upk-main-img">
+										<img loading="lazy" width="900" height="426" src="https://thecioworld.com/wp-content/uploads/2023/12/Following-a-China-Regulators-Assurance-on-New-Regulations-Tencent-and-NetEase-Shares-Rise.jpg" class="upk-img" alt="Following a China Regulator&#8217;s Assurance on New Regulations, Tencent and NetEase Shares Rise" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Following-a-China-Regulators-Assurance-on-New-Regulations-Tencent-and-NetEase-Shares-Rise.jpg 900w, https://thecioworld.com/wp-content/uploads/2023/12/Following-a-China-Regulators-Assurance-on-New-Regulations-Tencent-and-NetEase-Shares-Rise-300x142.jpg 300w, https://thecioworld.com/wp-content/uploads/2023/12/Following-a-China-Regulators-Assurance-on-New-Regulations-Tencent-and-NetEase-Shares-Rise-768x364.jpg 768w, https://thecioworld.com/wp-content/uploads/2023/12/Following-a-China-Regulators-Assurance-on-New-Regulations-Tencent-and-NetEase-Shares-Rise-150x71.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" title="International Business Magazine | Business Magazine Cover">																													</div>
+								</div>
+
+								<div class="upk-content">
+									<div>
+												<div class="upk-category">
+			<a href="https://thecioworld.com/category/news/">News</a>		</div>
+											<h3 class="upk-title"><a href="https://thecioworld.com/following-a-china-regulators-assurance-on-new-regulations-tencent-and-netease-shares-rise/" title="Following a China Regulator&#8217;s Assurance on New Regulations, Tencent and NetEase Shares Rise" class="title-animation-underline">Following a China Regulator&#8217;s Assurance on New Regulations, Tencent and NetEase Shares Rise</a></h3>
+										<div class="upk-text-wrap">
+													<div class="upk-text">
+			<p>Chinese online gaming stocks, including Tencent, NetEase, and Bilibili, experienced a rebound in their share prices after China's top gaming regulator stated that it would "carefully study" the concerns of</p>
+		</div>
+																						</div>
+
+																					<div class="upk-meta">
+												
+																									<div data-separator="|">
+																<div class="upk-date">
+			December 27, 2023		</div>
+
+																</div>
+												
+																							</div>
+										
+									</div>
+								</div>
+							</div>
+						</div>
+										<div class="upk-item swiper-slide">
 							<div class="upk-item-box">
 								<div class="upk-img-wrap">
 									<div class="upk-main-img">
@@ -1207,38 +1239,6 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
 								</div>
 							</div>
 						</div>
-										<div class="upk-item swiper-slide">
-							<div class="upk-item-box">
-								<div class="upk-img-wrap">
-									<div class="upk-main-img">
-										<img loading="lazy" width="900" height="426" src="https://thecioworld.com/wp-content/uploads/2023/12/Temu-Files-a-New-Lawsuit-Against-Shein-Alleging-mafia-style-intimidation-Against-its-Competitor.jpg" class="upk-img" alt="Temu Files a New Lawsuit Against Shein, Alleging &#8220;mafia-style intimidation&#8221; Against its Competitor" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Temu-Files-a-New-Lawsuit-Against-Shein-Alleging-mafia-style-intimidation-Against-its-Competitor.jpg 900w, https://thecioworld.com/wp-content/uploads/2023/12/Temu-Files-a-New-Lawsuit-Against-Shein-Alleging-mafia-style-intimidation-Against-its-Competitor-300x142.jpg 300w, https://thecioworld.com/wp-content/uploads/2023/12/Temu-Files-a-New-Lawsuit-Against-Shein-Alleging-mafia-style-intimidation-Against-its-Competitor-768x364.jpg 768w, https://thecioworld.com/wp-content/uploads/2023/12/Temu-Files-a-New-Lawsuit-Against-Shein-Alleging-mafia-style-intimidation-Against-its-Competitor-150x71.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" title="International Business Magazine | Business Magazine Cover">																													</div>
-								</div>
-
-								<div class="upk-content">
-									<div>
-												<div class="upk-category">
-			<a href="https://thecioworld.com/category/news/">News</a>		</div>
-											<h3 class="upk-title"><a href="https://thecioworld.com/temu-files-a-new-lawsuit-against-shein-alleging-mafia-style-intimidation-against-its-competitor/" title="Temu Files a New Lawsuit Against Shein, Alleging &#8220;mafia-style intimidation&#8221; Against its Competitor" class="title-animation-underline">Temu Files a New Lawsuit Against Shein, Alleging &#8220;mafia-style intimidation&#8221; Against its Competitor</a></h3>
-										<div class="upk-text-wrap">
-													<div class="upk-text">
-			<p>Temu, a low-cost Chinese online retailer, has initiated a new lawsuit against its rival Shein, citing copyright infringement concerns and alleging "mafia-style intimidation of suppliers." The filing by Boston-based WhaleCo,</p>
-		</div>
-																						</div>
-
-																					<div class="upk-meta">
-												
-																									<div data-separator="|">
-																<div class="upk-date">
-			December 14, 2023		</div>
-
-																</div>
-												
-																							</div>
-										
-									</div>
-								</div>
-							</div>
-						</div>
 						</div>
 				</div>
 		
@@ -1346,25 +1346,25 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
 					<div class="swiper-wrapper">
 											<div class="upk-item swiper-slide ">
 							<div class="upk-img-wrap">
+								<img loading="lazy" width="266" height="346" src="https://thecioworld.com/wp-content/uploads/2023/12/Middle-Easts-10-Most-Influential-CIOs-to-Watch-December2023.jpg" class="upk-img" alt="Middle East&#8217;s 10 Most Influential CIOs to Watch December2023" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Middle-Easts-10-Most-Influential-CIOs-to-Watch-December2023.jpg 266w, https://thecioworld.com/wp-content/uploads/2023/12/Middle-Easts-10-Most-Influential-CIOs-to-Watch-December2023-231x300.jpg 231w, https://thecioworld.com/wp-content/uploads/2023/12/Middle-Easts-10-Most-Influential-CIOs-to-Watch-December2023-150x195.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" title="International Business Magazine | Business Magazine Cover">							</div>
+							<div class="upk-content">
+																
+															</div>
+						</div>
+
+
+										<div class="upk-item swiper-slide ">
+							<div class="upk-img-wrap">
+								<img loading="lazy" width="266" height="346" src="https://thecioworld.com/wp-content/uploads/2023/12/CEO-Spotlight-South-Africas-Most-Influential-CEOs-to-Know-December2023.jpg" class="upk-img" alt="CEO Spotlight South Africa&#8217;s Most Influential CEOs to Know December2023" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/CEO-Spotlight-South-Africas-Most-Influential-CEOs-to-Know-December2023.jpg 266w, https://thecioworld.com/wp-content/uploads/2023/12/CEO-Spotlight-South-Africas-Most-Influential-CEOs-to-Know-December2023-231x300.jpg 231w, https://thecioworld.com/wp-content/uploads/2023/12/CEO-Spotlight-South-Africas-Most-Influential-CEOs-to-Know-December2023-150x195.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" title="International Business Magazine | Business Magazine Cover">							</div>
+							<div class="upk-content">
+																
+															</div>
+						</div>
+
+
+										<div class="upk-item swiper-slide ">
+							<div class="upk-img-wrap">
 								<img loading="lazy" width="266" height="346" src="https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-CTOs-to-Follow-in-the-Middle-East-VOL.2-December2023.jpg" class="upk-img" alt="The Most Influential CTOs to Follow in the Middle East VOL.2 December2023" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-CTOs-to-Follow-in-the-Middle-East-VOL.2-December2023.jpg 266w, https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-CTOs-to-Follow-in-the-Middle-East-VOL.2-December2023-231x300.jpg 231w, https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-CTOs-to-Follow-in-the-Middle-East-VOL.2-December2023-150x195.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" title="International Business Magazine | Business Magazine Cover">							</div>
-							<div class="upk-content">
-																
-															</div>
-						</div>
-
-
-										<div class="upk-item swiper-slide ">
-							<div class="upk-img-wrap">
-								<img loading="lazy" width="266" height="346" src="https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-Chief-Investment-Officers-to-Follow-in-2023-December2023.jpg" class="upk-img" alt="The Most Influential Chief Investment Officers to Follow in 2023 December2023" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-Chief-Investment-Officers-to-Follow-in-2023-December2023.jpg 266w, https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-Chief-Investment-Officers-to-Follow-in-2023-December2023-231x300.jpg 231w, https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-Chief-Investment-Officers-to-Follow-in-2023-December2023-150x195.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" title="International Business Magazine | Business Magazine Cover">							</div>
-							<div class="upk-content">
-																
-															</div>
-						</div>
-
-
-										<div class="upk-item swiper-slide ">
-							<div class="upk-img-wrap">
-								<img loading="lazy" width="266" height="346" src="https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-CIOs-of-the-Year-December2023.jpg" class="upk-img" alt="The Most Influential CIOs of the Year December2023" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-CIOs-of-the-Year-December2023.jpg 266w, https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-CIOs-of-the-Year-December2023-231x300.jpg 231w, https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-CIOs-of-the-Year-December2023-150x195.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" title="International Business Magazine | Business Magazine Cover">							</div>
 							<div class="upk-content">
 																
 															</div>
@@ -1393,6 +1393,48 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
 							<div class="upk-item-box">
 								<div class="upk-img-wrap">
 									<div class="upk-main-img">
+										<img loading="lazy" width="900" height="426" src="https://thecioworld.com/wp-content/uploads/2023/12/Zohdi-El-Saadi.jpg" class="upk-img" alt="Zohdi El-Saadi: Pioneering Innovation, Bridging Generations, and Transforming Businesses" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Zohdi-El-Saadi.jpg 900w, https://thecioworld.com/wp-content/uploads/2023/12/Zohdi-El-Saadi-300x142.jpg 300w, https://thecioworld.com/wp-content/uploads/2023/12/Zohdi-El-Saadi-768x364.jpg 768w, https://thecioworld.com/wp-content/uploads/2023/12/Zohdi-El-Saadi-150x71.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" title="International Business Magazine | Business Magazine Cover">																													</div>
+								</div>
+
+								<div class="upk-content">
+									<div>
+																				<h3 class="upk-title"><a href="https://thecioworld.com/zohdi-el-saadi-pioneering-innovation-bridging-generations-and-transforming-businesses/" title="Zohdi El-Saadi: Pioneering Innovation, Bridging Generations, and Transforming Businesses" class="title-animation-underline">Zohdi El-Saadi: Pioneering Innovation, Bridging Generations, and Transforming Businesses</a></h3>
+										<div class="upk-text-wrap">
+													<div class="upk-text">
+			<p>Enthusiastically Captivated by Technology from its Nascent Stages! Ever heard the saying that we're living in the age of convenience?</p>
+		</div>
+																						</div>
+
+										
+									</div>
+								</div>
+							</div>
+						</div>
+										<div class="upk-item swiper-slide">
+							<div class="upk-item-box">
+								<div class="upk-img-wrap">
+									<div class="upk-main-img">
+										<img loading="lazy" width="900" height="426" src="https://thecioworld.com/wp-content/uploads/2023/12/David-Morris.jpg" class="upk-img" alt="David Morris: An Expedition of Tenacity and Exemplary Governance" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/David-Morris.jpg 900w, https://thecioworld.com/wp-content/uploads/2023/12/David-Morris-300x142.jpg 300w, https://thecioworld.com/wp-content/uploads/2023/12/David-Morris-768x364.jpg 768w, https://thecioworld.com/wp-content/uploads/2023/12/David-Morris-150x71.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" title="International Business Magazine | Business Magazine Cover">																													</div>
+								</div>
+
+								<div class="upk-content">
+									<div>
+																				<h3 class="upk-title"><a href="https://thecioworld.com/david-morris-an-expedition-of-tenacity-and-exemplary-governance/" title="David Morris: An Expedition of Tenacity and Exemplary Governance" class="title-animation-underline">David Morris: An Expedition of Tenacity and Exemplary Governance</a></h3>
+										<div class="upk-text-wrap">
+													<div class="upk-text">
+			<p>A Tale of Determination, Ambition, and Leadership In the world of business, success stories often start with a clear path</p>
+		</div>
+																						</div>
+
+										
+									</div>
+								</div>
+							</div>
+						</div>
+										<div class="upk-item swiper-slide">
+							<div class="upk-item-box">
+								<div class="upk-img-wrap">
+									<div class="upk-main-img">
 										<img loading="lazy" width="900" height="426" src="https://thecioworld.com/wp-content/uploads/2023/12/Faisal-Albirdisi.jpg" class="upk-img" alt="Faisal Albirdisi: Driving Renewable Energy Change" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Faisal-Albirdisi.jpg 900w, https://thecioworld.com/wp-content/uploads/2023/12/Faisal-Albirdisi-300x142.jpg 300w, https://thecioworld.com/wp-content/uploads/2023/12/Faisal-Albirdisi-768x364.jpg 768w, https://thecioworld.com/wp-content/uploads/2023/12/Faisal-Albirdisi-150x71.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" title="International Business Magazine | Business Magazine Cover">																													</div>
 								</div>
 
@@ -1402,48 +1444,6 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
 										<div class="upk-text-wrap">
 													<div class="upk-text">
 			<p>Pioneering Sustainability and Energy Innovation in a Hydrocarbon-Dependent Region! Amidst the challenges posed by climate change and the urgency to</p>
-		</div>
-																						</div>
-
-										
-									</div>
-								</div>
-							</div>
-						</div>
-										<div class="upk-item swiper-slide">
-							<div class="upk-item-box">
-								<div class="upk-img-wrap">
-									<div class="upk-main-img">
-										<img loading="lazy" width="900" height="426" src="https://thecioworld.com/wp-content/uploads/2023/12/Vijay-Valecha.jpg" class="upk-img" alt="Vijay Valecha: Redefining the Career Paradigm in Finance" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Vijay-Valecha.jpg 900w, https://thecioworld.com/wp-content/uploads/2023/12/Vijay-Valecha-300x142.jpg 300w, https://thecioworld.com/wp-content/uploads/2023/12/Vijay-Valecha-768x364.jpg 768w, https://thecioworld.com/wp-content/uploads/2023/12/Vijay-Valecha-150x71.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" title="International Business Magazine | Business Magazine Cover">																													</div>
-								</div>
-
-								<div class="upk-content">
-									<div>
-																				<h3 class="upk-title"><a href="https://thecioworld.com/vijay-valecha-redefining-the-career-paradigm-in-finance/" title="Vijay Valecha: Redefining the Career Paradigm in Finance" class="title-animation-underline">Vijay Valecha: Redefining the Career Paradigm in Finance</a></h3>
-										<div class="upk-text-wrap">
-													<div class="upk-text">
-			<p>Navigating a Career Shift from Process Engineering to Finance, One Passionate Leap at a Time! Life, they say, is a</p>
-		</div>
-																						</div>
-
-										
-									</div>
-								</div>
-							</div>
-						</div>
-										<div class="upk-item swiper-slide">
-							<div class="upk-item-box">
-								<div class="upk-img-wrap">
-									<div class="upk-main-img">
-										<img loading="lazy" width="900" height="426" src="https://thecioworld.com/wp-content/uploads/2023/12/Shane-Riddle.jpg" class="upk-img" alt="Shane Riddle: Empowering Innovation and Transforming Technology" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Shane-Riddle.jpg 900w, https://thecioworld.com/wp-content/uploads/2023/12/Shane-Riddle-300x142.jpg 300w, https://thecioworld.com/wp-content/uploads/2023/12/Shane-Riddle-768x364.jpg 768w, https://thecioworld.com/wp-content/uploads/2023/12/Shane-Riddle-150x71.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" title="International Business Magazine | Business Magazine Cover">																													</div>
-								</div>
-
-								<div class="upk-content">
-									<div>
-																				<h3 class="upk-title"><a href="https://thecioworld.com/shane-riddle-empowering-innovation-and-transforming-technology/" title="Shane Riddle: Empowering Innovation and Transforming Technology" class="title-animation-underline">Shane Riddle: Empowering Innovation and Transforming Technology</a></h3>
-										<div class="upk-text-wrap">
-													<div class="upk-text">
-			<p>Visionary Leader, Innovator and Change Catalyst leading YMCA into a digitally-savvy future! Life is an ever-evolving journey filled with ups</p>
 		</div>
 																						</div>
 
@@ -1475,41 +1475,41 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
 				<div class="elementor-element elementor-element-abfe5af elementor-grid-2 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="abfe5af" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;2&quot;,&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_columns_mobile&quot;:&quot;1&quot;,&quot;classic_row_gap_widescreen&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
 				<div class="elementor-widget-container">
 			<link rel="stylesheet" href="https://thecioworld.com/wp-content/plugins/elementor-pro/assets/css/widget-posts.min.css">		<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
-				<article class="elementor-post elementor-grid-item post-4484 post type-post status-publish format-standard has-post-thumbnail hentry category-all_profiles entry has-media">
-				<a class="elementor-post__thumbnail__link" href="https://thecioworld.com/mohamed-youssef-transforming-patient-care-through-technology-and-expertise/" tabindex="-1">
-			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="900" height="426" src="https://thecioworld.com/wp-content/uploads/2023/12/Mohamed-Youssef.jpg" class="attachment-full size-full wp-image-4485" alt="Mohamed Youssef" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Mohamed-Youssef.jpg 900w, https://thecioworld.com/wp-content/uploads/2023/12/Mohamed-Youssef-300x142.jpg 300w, https://thecioworld.com/wp-content/uploads/2023/12/Mohamed-Youssef-768x364.jpg 768w, https://thecioworld.com/wp-content/uploads/2023/12/Mohamed-Youssef-150x71.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" title="International Business Magazine | Business Magazine Cover"></div>
+				<article class="elementor-post elementor-grid-item post-4525 post type-post status-publish format-standard has-post-thumbnail hentry category-all_profiles entry has-media">
+				<a class="elementor-post__thumbnail__link" href="https://thecioworld.com/rany-m-sabry-elevating-businesses-creative-technologies/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="900" height="426" src="https://thecioworld.com/wp-content/uploads/2023/12/Rany-Sabry.jpg" class="attachment-full size-full wp-image-4526" alt="Rany Sabry" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Rany-Sabry.jpg 900w, https://thecioworld.com/wp-content/uploads/2023/12/Rany-Sabry-300x142.jpg 300w, https://thecioworld.com/wp-content/uploads/2023/12/Rany-Sabry-768x364.jpg 768w, https://thecioworld.com/wp-content/uploads/2023/12/Rany-Sabry-150x71.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" title="International Business Magazine | Business Magazine Cover"></div>
 		</a>
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="https://thecioworld.com/mohamed-youssef-transforming-patient-care-through-technology-and-expertise/">
-				Mohamed Youssef: Transforming Patient Care Through Technology and Expertise			</a>
+			<a href="https://thecioworld.com/rany-m-sabry-elevating-businesses-creative-technologies/">
+				Rany M. Sabry: Elevating Businesses Creative Technologies			</a>
 		</h3>
 				<div class="elementor-post__excerpt">
-			<p>Mastering the Fusion of Business and Computer Science for Enhanced Patient Care and Value-Based Healthcare! &#8220;Can technology redefine the future of healthcare?&#8221; This pivotal question</p>
+			<p>Innovative Leadership in Technology and Business Transformation! In the contemporary corporate landscape, the integration of technology solutions has become imperative for attaining organizational objectives. These</p>
 		</div>
 					<div class="elementor-post__read-more-wrapper">
 		
-		<a class="elementor-post__read-more" href="https://thecioworld.com/mohamed-youssef-transforming-patient-care-through-technology-and-expertise/" aria-label="Read more about Mohamed Youssef: Transforming Patient Care Through Technology and Expertise" tabindex="-1">
+		<a class="elementor-post__read-more" href="https://thecioworld.com/rany-m-sabry-elevating-businesses-creative-technologies/" aria-label="Read more about Rany M. Sabry: Elevating Businesses Creative Technologies" tabindex="-1">
 			Read More »		</a>
 
 					</div>
 				</div>
 				</article>
-				<article class="elementor-post elementor-grid-item post-4481 post type-post status-publish format-standard has-post-thumbnail hentry category-all_profiles entry has-media">
-				<a class="elementor-post__thumbnail__link" href="https://thecioworld.com/ramesh-murugesan-a-pioneers-journey-in-digital-transformation-leadership/" tabindex="-1">
-			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="900" height="426" src="https://thecioworld.com/wp-content/uploads/2023/12/Ramesh-Murugesan.jpg" class="attachment-full size-full wp-image-4482" alt="Ramesh Murugesan" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Ramesh-Murugesan.jpg 900w, https://thecioworld.com/wp-content/uploads/2023/12/Ramesh-Murugesan-300x142.jpg 300w, https://thecioworld.com/wp-content/uploads/2023/12/Ramesh-Murugesan-768x364.jpg 768w, https://thecioworld.com/wp-content/uploads/2023/12/Ramesh-Murugesan-150x71.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" title="International Business Magazine | Business Magazine Cover"></div>
+				<article class="elementor-post elementor-grid-item post-4504 post type-post status-publish format-standard has-post-thumbnail hentry category-all_profiles entry has-media">
+				<a class="elementor-post__thumbnail__link" href="https://thecioworld.com/hein-engelbrecht-from-accountancy-to-leadership/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="900" height="426" src="https://thecioworld.com/wp-content/uploads/2023/12/Hein-Engelbrecht.jpg" class="attachment-full size-full wp-image-4505" alt="Hein Engelbrecht" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Hein-Engelbrecht.jpg 900w, https://thecioworld.com/wp-content/uploads/2023/12/Hein-Engelbrecht-300x142.jpg 300w, https://thecioworld.com/wp-content/uploads/2023/12/Hein-Engelbrecht-768x364.jpg 768w, https://thecioworld.com/wp-content/uploads/2023/12/Hein-Engelbrecht-150x71.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" title="International Business Magazine | Business Magazine Cover"></div>
 		</a>
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="https://thecioworld.com/ramesh-murugesan-a-pioneers-journey-in-digital-transformation-leadership/">
-				Ramesh Murugesan: A Pioneer&#8217;s Journey in Digital Transformation Leadership			</a>
+			<a href="https://thecioworld.com/hein-engelbrecht-from-accountancy-to-leadership/">
+				Hein Engelbrecht: From Accountancy to Leadership			</a>
 		</h3>
 				<div class="elementor-post__excerpt">
-			<p>22+ Years of Shaping the Future through Technology, Leadership and Sustainability! &#8220;Can technology truly reshape the future, or is it merely a tool we wield</p>
+			<p>Navigating the Numbers, Leading Mustek, and Embracing a Holistic Leadership Approach! Every journey has a tale that just needs to be shared. How does a</p>
 		</div>
 					<div class="elementor-post__read-more-wrapper">
 		
-		<a class="elementor-post__read-more" href="https://thecioworld.com/ramesh-murugesan-a-pioneers-journey-in-digital-transformation-leadership/" aria-label="Read more about Ramesh Murugesan: A Pioneer&#8217;s Journey in Digital Transformation Leadership" tabindex="-1">
+		<a class="elementor-post__read-more" href="https://thecioworld.com/hein-engelbrecht-from-accountancy-to-leadership/" aria-label="Read more about Hein Engelbrecht: From Accountancy to Leadership" tabindex="-1">
 			Read More »		</a>
 
 					</div>
@@ -1522,36 +1522,36 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
 				<div class="elementor-element elementor-element-16b76a6 elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="16b76a6" data-element_type="widget" data-settings="{&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;classic_columns&quot;:&quot;3&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_columns_mobile&quot;:&quot;1&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_widescreen&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
 				<div class="elementor-widget-container">
 					<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
-				<article class="elementor-post elementor-grid-item post-4433 post type-post status-publish format-standard has-post-thumbnail hentry category-all_profiles entry has-media">
-				<a class="elementor-post__thumbnail__link" href="https://thecioworld.com/teymour-abou-el-kheir-fueling-passion-for-impact/" tabindex="-1">
-			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="900" height="426" src="https://thecioworld.com/wp-content/uploads/2023/12/Teymour-Abou-Elkheir.jpg" class="attachment-full size-full wp-image-4434" alt="Teymour Abou Elkheir" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Teymour-Abou-Elkheir.jpg 900w, https://thecioworld.com/wp-content/uploads/2023/12/Teymour-Abou-Elkheir-300x142.jpg 300w, https://thecioworld.com/wp-content/uploads/2023/12/Teymour-Abou-Elkheir-768x364.jpg 768w, https://thecioworld.com/wp-content/uploads/2023/12/Teymour-Abou-Elkheir-150x71.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" title="International Business Magazine | Business Magazine Cover"></div>
+				<article class="elementor-post elementor-grid-item post-4501 post type-post status-publish format-standard has-post-thumbnail hentry category-all_profiles entry has-media">
+				<a class="elementor-post__thumbnail__link" href="https://thecioworld.com/johan-de-villiers-trailblazing-the-tech-frontiers-with-innovation-and-adventure/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="900" height="426" src="https://thecioworld.com/wp-content/uploads/2023/12/Johan-Villiers.jpg" class="attachment-full size-full wp-image-4502" alt="Johan Villiers" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Johan-Villiers.jpg 900w, https://thecioworld.com/wp-content/uploads/2023/12/Johan-Villiers-300x142.jpg 300w, https://thecioworld.com/wp-content/uploads/2023/12/Johan-Villiers-768x364.jpg 768w, https://thecioworld.com/wp-content/uploads/2023/12/Johan-Villiers-150x71.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" title="International Business Magazine | Business Magazine Cover"></div>
 		</a>
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="https://thecioworld.com/teymour-abou-el-kheir-fueling-passion-for-impact/">
-				Teymour Abou El Kheir: Fueling Passion for Impact			</a>
+			<a href="https://thecioworld.com/johan-de-villiers-trailblazing-the-tech-frontiers-with-innovation-and-adventure/">
+				Johan De Villiers: Trailblazing the Tech Frontiers with Innovation and Adventure			</a>
 		</h3>
 				</div>
 				</article>
-				<article class="elementor-post elementor-grid-item post-4430 post type-post status-publish format-standard has-post-thumbnail hentry category-all_profiles entry has-media">
-				<a class="elementor-post__thumbnail__link" href="https://thecioworld.com/louis-flamand-bridging-institutional-expertise-with-retail-accessibility/" tabindex="-1">
-			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="900" height="426" src="https://thecioworld.com/wp-content/uploads/2023/12/Louis-Flamand.jpg" class="attachment-full size-full wp-image-4431" alt="Louis Flamand" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Louis-Flamand.jpg 900w, https://thecioworld.com/wp-content/uploads/2023/12/Louis-Flamand-300x142.jpg 300w, https://thecioworld.com/wp-content/uploads/2023/12/Louis-Flamand-768x364.jpg 768w, https://thecioworld.com/wp-content/uploads/2023/12/Louis-Flamand-150x71.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" title="International Business Magazine | Business Magazine Cover"></div>
+				<article class="elementor-post elementor-grid-item post-4484 post type-post status-publish format-standard has-post-thumbnail hentry category-all_profiles entry has-media">
+				<a class="elementor-post__thumbnail__link" href="https://thecioworld.com/mohamed-youssef-transforming-patient-care-through-technology-and-expertise/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="900" height="426" src="https://thecioworld.com/wp-content/uploads/2023/12/Mohamed-Youssef.jpg" class="attachment-full size-full wp-image-4485" alt="Mohamed Youssef" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Mohamed-Youssef.jpg 900w, https://thecioworld.com/wp-content/uploads/2023/12/Mohamed-Youssef-300x142.jpg 300w, https://thecioworld.com/wp-content/uploads/2023/12/Mohamed-Youssef-768x364.jpg 768w, https://thecioworld.com/wp-content/uploads/2023/12/Mohamed-Youssef-150x71.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" title="International Business Magazine | Business Magazine Cover"></div>
 		</a>
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="https://thecioworld.com/louis-flamand-bridging-institutional-expertise-with-retail-accessibility/">
-				 Louis Flamand: Bridging Institutional Expertise with Retail Accessibility			</a>
+			<a href="https://thecioworld.com/mohamed-youssef-transforming-patient-care-through-technology-and-expertise/">
+				Mohamed Youssef: Transforming Patient Care Through Technology and Expertise			</a>
 		</h3>
 				</div>
 				</article>
-				<article class="elementor-post elementor-grid-item post-4359 post type-post status-publish format-standard has-post-thumbnail hentry category-all_profiles entry has-media">
-				<a class="elementor-post__thumbnail__link" href="https://thecioworld.com/grant-macpherson-a-flavorful-journey-to-marketing-excellence/" tabindex="-1">
-			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="900" height="426" src="https://thecioworld.com/wp-content/uploads/2023/12/Grant-Macpherson..jpg" class="attachment-full size-full wp-image-4360" alt="Grant Macpherson" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Grant-Macpherson..jpg 900w, https://thecioworld.com/wp-content/uploads/2023/12/Grant-Macpherson.-300x142.jpg 300w, https://thecioworld.com/wp-content/uploads/2023/12/Grant-Macpherson.-768x364.jpg 768w, https://thecioworld.com/wp-content/uploads/2023/12/Grant-Macpherson.-150x71.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" title="International Business Magazine | Business Magazine Cover"></div>
+				<article class="elementor-post elementor-grid-item post-4481 post type-post status-publish format-standard has-post-thumbnail hentry category-all_profiles entry has-media">
+				<a class="elementor-post__thumbnail__link" href="https://thecioworld.com/ramesh-murugesan-a-pioneers-journey-in-digital-transformation-leadership/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="900" height="426" src="https://thecioworld.com/wp-content/uploads/2023/12/Ramesh-Murugesan.jpg" class="attachment-full size-full wp-image-4482" alt="Ramesh Murugesan" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Ramesh-Murugesan.jpg 900w, https://thecioworld.com/wp-content/uploads/2023/12/Ramesh-Murugesan-300x142.jpg 300w, https://thecioworld.com/wp-content/uploads/2023/12/Ramesh-Murugesan-768x364.jpg 768w, https://thecioworld.com/wp-content/uploads/2023/12/Ramesh-Murugesan-150x71.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" title="International Business Magazine | Business Magazine Cover"></div>
 		</a>
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="https://thecioworld.com/grant-macpherson-a-flavorful-journey-to-marketing-excellence/">
-				Grant Macpherson: A Flavorful Journey to Marketing Excellence			</a>
+			<a href="https://thecioworld.com/ramesh-murugesan-a-pioneers-journey-in-digital-transformation-leadership/">
+				Ramesh Murugesan: A Pioneer&#8217;s Journey in Digital Transformation Leadership			</a>
 		</h3>
 				</div>
 				</article>
@@ -2089,6 +2089,22 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
 											<div class="upk-item swiper-slide">
 							<div class="upk-item-box">
 								<div class="upk-img-wrap">
+									<img loading="lazy" width="266" height="346" src="https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-Chief-Investment-Officers-to-Follow-in-2023-December2023.jpg" class="upk-img" alt="The Most Influential Chief Investment Officers to Follow in 2023 December2023" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-Chief-Investment-Officers-to-Follow-in-2023-December2023.jpg 266w, https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-Chief-Investment-Officers-to-Follow-in-2023-December2023-231x300.jpg 231w, https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-Chief-Investment-Officers-to-Follow-in-2023-December2023-150x195.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" title="International Business Magazine | Business Magazine Cover">								</div>
+																<div class="upk-content">
+																										</div>
+							</div>
+						</div>
+										<div class="upk-item swiper-slide">
+							<div class="upk-item-box">
+								<div class="upk-img-wrap">
+									<img loading="lazy" width="266" height="346" src="https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-CIOs-of-the-Year-December2023.jpg" class="upk-img" alt="The Most Influential CIOs of the Year December2023" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-CIOs-of-the-Year-December2023.jpg 266w, https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-CIOs-of-the-Year-December2023-231x300.jpg 231w, https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-CIOs-of-the-Year-December2023-150x195.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" title="International Business Magazine | Business Magazine Cover">								</div>
+																<div class="upk-content">
+																										</div>
+							</div>
+						</div>
+										<div class="upk-item swiper-slide">
+							<div class="upk-item-box">
+								<div class="upk-img-wrap">
 									<img loading="lazy" width="266" height="346" src="https://thecioworld.com/wp-content/uploads/2023/12/The-10-Most-Influential-CFOs-to-Watch-in-2023.jpg" class="upk-img" alt="The 10 Most Influential CFOs to Watch in 2023 December2023" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/The-10-Most-Influential-CFOs-to-Watch-in-2023.jpg 266w, https://thecioworld.com/wp-content/uploads/2023/12/The-10-Most-Influential-CFOs-to-Watch-in-2023-231x300.jpg 231w, https://thecioworld.com/wp-content/uploads/2023/12/The-10-Most-Influential-CFOs-to-Watch-in-2023-150x195.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" title="International Business Magazine | Business Magazine Cover">								</div>
 																<div class="upk-content">
 																										</div>
@@ -2106,22 +2122,6 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
 							<div class="upk-item-box">
 								<div class="upk-img-wrap">
 									<img loading="lazy" width="266" height="346" src="https://thecioworld.com/wp-content/uploads/2023/11/Africas-Top-10-Visionary-CEOs-Making-Waves-in-2023-November2023.jpg" class="upk-img" alt="Africa&#8217;s Top 10 Visionary CEOs Making Waves in 2023 November2023" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/11/Africas-Top-10-Visionary-CEOs-Making-Waves-in-2023-November2023.jpg 266w, https://thecioworld.com/wp-content/uploads/2023/11/Africas-Top-10-Visionary-CEOs-Making-Waves-in-2023-November2023-231x300.jpg 231w, https://thecioworld.com/wp-content/uploads/2023/11/Africas-Top-10-Visionary-CEOs-Making-Waves-in-2023-November2023-150x195.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" title="International Business Magazine | Business Magazine Cover">								</div>
-																<div class="upk-content">
-																										</div>
-							</div>
-						</div>
-										<div class="upk-item swiper-slide">
-							<div class="upk-item-box">
-								<div class="upk-img-wrap">
-									<img loading="lazy" width="266" height="346" src="https://thecioworld.com/wp-content/uploads/2023/11/Singapores-Most-Influential-Business-Leaders-To-Watch-In-2023-November2023.jpg" class="upk-img" alt="Singapore&#8217;s Most Influential Business Leaders To Watch In 2023 November2023" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/11/Singapores-Most-Influential-Business-Leaders-To-Watch-In-2023-November2023.jpg 266w, https://thecioworld.com/wp-content/uploads/2023/11/Singapores-Most-Influential-Business-Leaders-To-Watch-In-2023-November2023-231x300.jpg 231w, https://thecioworld.com/wp-content/uploads/2023/11/Singapores-Most-Influential-Business-Leaders-To-Watch-In-2023-November2023-150x195.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" title="International Business Magazine | Business Magazine Cover">								</div>
-																<div class="upk-content">
-																										</div>
-							</div>
-						</div>
-										<div class="upk-item swiper-slide">
-							<div class="upk-item-box">
-								<div class="upk-img-wrap">
-									<img loading="lazy" width="266" height="346" src="https://thecioworld.com/wp-content/uploads/2023/11/Top-10-Leaders-Shaping-the-Future-of-Finance-Industry.jpg" class="upk-img" alt="Top 10 Leaders Shaping the Future of Finance Industry, November 2023" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/11/Top-10-Leaders-Shaping-the-Future-of-Finance-Industry.jpg 266w, https://thecioworld.com/wp-content/uploads/2023/11/Top-10-Leaders-Shaping-the-Future-of-Finance-Industry-231x300.jpg 231w, https://thecioworld.com/wp-content/uploads/2023/11/Top-10-Leaders-Shaping-the-Future-of-Finance-Industry-150x195.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" title="International Business Magazine | Business Magazine Cover">								</div>
 																<div class="upk-content">
 																										</div>
 							</div>
@@ -2281,6 +2281,24 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
 					<div class="swiper-wrapper">
 											<div class="upk-item swiper-slide ">
 							<div class="upk-img-wrap">
+								<img loading="lazy" width="266" height="346" src="https://thecioworld.com/wp-content/uploads/2023/12/Middle-Easts-10-Most-Influential-CIOs-to-Watch-December2023.jpg" class="upk-img" alt="Middle East&#8217;s 10 Most Influential CIOs to Watch December2023" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Middle-Easts-10-Most-Influential-CIOs-to-Watch-December2023.jpg 266w, https://thecioworld.com/wp-content/uploads/2023/12/Middle-Easts-10-Most-Influential-CIOs-to-Watch-December2023-231x300.jpg 231w, https://thecioworld.com/wp-content/uploads/2023/12/Middle-Easts-10-Most-Influential-CIOs-to-Watch-December2023-150x195.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" />							</div>
+							<div class="upk-content">
+																
+															</div>
+						</div>
+
+
+										<div class="upk-item swiper-slide ">
+							<div class="upk-img-wrap">
+								<img loading="lazy" width="266" height="346" src="https://thecioworld.com/wp-content/uploads/2023/12/CEO-Spotlight-South-Africas-Most-Influential-CEOs-to-Know-December2023.jpg" class="upk-img" alt="CEO Spotlight South Africa&#8217;s Most Influential CEOs to Know December2023" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/CEO-Spotlight-South-Africas-Most-Influential-CEOs-to-Know-December2023.jpg 266w, https://thecioworld.com/wp-content/uploads/2023/12/CEO-Spotlight-South-Africas-Most-Influential-CEOs-to-Know-December2023-231x300.jpg 231w, https://thecioworld.com/wp-content/uploads/2023/12/CEO-Spotlight-South-Africas-Most-Influential-CEOs-to-Know-December2023-150x195.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" />							</div>
+							<div class="upk-content">
+																
+															</div>
+						</div>
+
+
+										<div class="upk-item swiper-slide ">
+							<div class="upk-img-wrap">
 								<img loading="lazy" width="266" height="346" src="https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-CTOs-to-Follow-in-the-Middle-East-VOL.2-December2023.jpg" class="upk-img" alt="The Most Influential CTOs to Follow in the Middle East VOL.2 December2023" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-CTOs-to-Follow-in-the-Middle-East-VOL.2-December2023.jpg 266w, https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-CTOs-to-Follow-in-the-Middle-East-VOL.2-December2023-231x300.jpg 231w, https://thecioworld.com/wp-content/uploads/2023/12/The-Most-Influential-CTOs-to-Follow-in-the-Middle-East-VOL.2-December2023-150x195.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" />							</div>
 							<div class="upk-content">
 																
@@ -2309,24 +2327,6 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
 										<div class="upk-item swiper-slide ">
 							<div class="upk-img-wrap">
 								<img loading="lazy" width="266" height="346" src="https://thecioworld.com/wp-content/uploads/2023/12/The-10-Most-Influential-CFOs-to-Watch-in-2023.jpg" class="upk-img" alt="The 10 Most Influential CFOs to Watch in 2023 December2023" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/The-10-Most-Influential-CFOs-to-Watch-in-2023.jpg 266w, https://thecioworld.com/wp-content/uploads/2023/12/The-10-Most-Influential-CFOs-to-Watch-in-2023-231x300.jpg 231w, https://thecioworld.com/wp-content/uploads/2023/12/The-10-Most-Influential-CFOs-to-Watch-in-2023-150x195.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" />							</div>
-							<div class="upk-content">
-																
-															</div>
-						</div>
-
-
-										<div class="upk-item swiper-slide ">
-							<div class="upk-img-wrap">
-								<img loading="lazy" width="266" height="346" src="https://thecioworld.com/wp-content/uploads/2023/12/Top-10-OUTstanding-LGBTQIA-Leaders-to-Follow-December2023.jpg" class="upk-img" alt="Top 10 OUTstanding LGBTQIA+ Leaders to Follow December2023" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/12/Top-10-OUTstanding-LGBTQIA-Leaders-to-Follow-December2023.jpg 266w, https://thecioworld.com/wp-content/uploads/2023/12/Top-10-OUTstanding-LGBTQIA-Leaders-to-Follow-December2023-231x300.jpg 231w, https://thecioworld.com/wp-content/uploads/2023/12/Top-10-OUTstanding-LGBTQIA-Leaders-to-Follow-December2023-150x195.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" />							</div>
-							<div class="upk-content">
-																
-															</div>
-						</div>
-
-
-										<div class="upk-item swiper-slide ">
-							<div class="upk-img-wrap">
-								<img loading="lazy" width="266" height="346" src="https://thecioworld.com/wp-content/uploads/2023/11/Africas-Top-10-Visionary-CEOs-Making-Waves-in-2023-November2023.jpg" class="upk-img" alt="Africa&#8217;s Top 10 Visionary CEOs Making Waves in 2023 November2023" decoding="async" srcset="https://thecioworld.com/wp-content/uploads/2023/11/Africas-Top-10-Visionary-CEOs-Making-Waves-in-2023-November2023.jpg 266w, https://thecioworld.com/wp-content/uploads/2023/11/Africas-Top-10-Visionary-CEOs-Making-Waves-in-2023-November2023-231x300.jpg 231w, https://thecioworld.com/wp-content/uploads/2023/11/Africas-Top-10-Visionary-CEOs-Making-Waves-in-2023-November2023-150x195.jpg 150w" sizes="(max-width: 266px) 100vw, 266px" />							</div>
 							<div class="upk-content">
 																
 															</div>
@@ -2499,18 +2499,18 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
 <link rel='stylesheet' id='upk-alice-carousel-css' href='https://thecioworld.com/wp-content/plugins/ultimate-post-kit/assets/css/upk-alice-carousel.css?ver=3.9.8' media='all' />
 <link rel='stylesheet' id='e-animations-css' href='https://thecioworld.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.18.3' media='all' />
 <script id='chaty-front-end-js-extra'>
-var chaty_settings = {"ajax_url":"https:\/\/thecioworld.com\/wp-admin\/admin-ajax.php","analytics":"0","capture_analytics":"0","token":"7fdc732e6b","lang":{"whatsapp_label":"WhatsApp Message","hide_whatsapp_form":"Hide WhatsApp Form"},"chaty_widgets":[{"id":0,"identifier":0,"settings":{"cta_type":"simple-view","cta_body":"","cta_head":"","cta_head_bg_color":"","cta_head_text_color":"","show_close_button":1,"position":"right","custom_position":1,"bottom_spacing":"25","side_spacing":"25","icon_view":"vertical","default_state":"click","cta_text":"Let&#039;s Talk","cta_text_color":"#333333","cta_bg_color":"#ffffff","show_cta":"first_click","is_pending_mesg_enabled":"off","pending_mesg_count":"1","pending_mesg_count_color":"#ffffff","pending_mesg_count_bgcolor":"#dd0000","widget_icon":"chat-base","widget_icon_url":"","font_family":"-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif","widget_size":"54","custom_widget_size":"54","is_google_analytics_enabled":0,"close_text":"Hide","widget_color":"#A886CD","widget_rgb_color":"168,134,205","has_custom_css":0,"custom_css":"","widget_token":"654cacf8af","widget_index":"","attention_effect":""},"triggers":{"has_time_delay":1,"time_delay":"0","exit_intent":0,"has_display_after_page_scroll":0,"display_after_page_scroll":"0","auto_hide_widget":0,"hide_after":0,"show_on_pages_rules":[],"time_diff":0,"has_date_scheduling_rules":0,"date_scheduling_rules":{"start_date_time":"","end_date_time":""},"date_scheduling_rules_timezone":0,"day_hours_scheduling_rules_timezone":0,"has_day_hours_scheduling_rules":[],"day_hours_scheduling_rules":[],"day_time_diff":0,"show_on_direct_visit":0,"show_on_referrer_social_network":0,"show_on_referrer_search_engines":0,"show_on_referrer_google_ads":0,"show_on_referrer_urls":[],"has_show_on_specific_referrer_urls":0,"has_traffic_source":0,"has_countries":0,"countries":[],"has_target_rules":0},"channels":[{"channel":"Whatsapp","value":"16143567696","hover_text":"WhatsApp","svg_icon":"<svg width=\"39\" height=\"39\" viewBox=\"0 0 39 39\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\"><circle class=\"color-element\" cx=\"19.4395\" cy=\"19.4395\" r=\"19.4395\" fill=\"#49E670\"\/><path d=\"M12.9821 10.1115C12.7029 10.7767 11.5862 11.442 10.7486 11.575C10.1902 11.7081 9.35269 11.8411 6.84003 10.7767C3.48981 9.44628 1.39593 6.25317 1.25634 6.12012C1.11674 5.85403 2.13001e-06 4.39053 2.13001e-06 2.92702C2.13001e-06 1.46351 0.83755 0.665231 1.11673 0.399139C1.39592 0.133046 1.8147 1.01506e-06 2.23348 1.01506e-06C2.37307 1.01506e-06 2.51267 1.01506e-06 2.65226 1.01506e-06C2.93144 1.01506e-06 3.21063 -2.02219e-06 3.35022 0.532183C3.62941 1.19741 4.32736 2.66092 4.32736 2.79397C4.46696 2.92702 4.46696 3.19311 4.32736 3.32616C4.18777 3.59225 4.18777 3.59224 3.90858 3.85834C3.76899 3.99138 3.6294 4.12443 3.48981 4.39052C3.35022 4.52357 3.21063 4.78966 3.35022 5.05576C3.48981 5.32185 4.18777 6.38622 5.16491 7.18449C6.42125 8.24886 7.39839 8.51496 7.81717 8.78105C8.09636 8.91409 8.37554 8.9141 8.65472 8.648C8.93391 8.38191 9.21309 7.98277 9.49228 7.58363C9.77146 7.31754 10.0507 7.1845 10.3298 7.31754C10.609 7.45059 12.2841 8.11582 12.5633 8.38191C12.8425 8.51496 13.1217 8.648 13.1217 8.78105C13.1217 8.78105 13.1217 9.44628 12.9821 10.1115Z\" transform=\"translate(12.9597 12.9597)\" fill=\"#FAFAFA\"\/><path d=\"M0.196998 23.295L0.131434 23.4862L0.323216 23.4223L5.52771 21.6875C7.4273 22.8471 9.47325 23.4274 11.6637 23.4274C18.134 23.4274 23.4274 18.134 23.4274 11.6637C23.4274 5.19344 18.134 -0.1 11.6637 -0.1C5.19344 -0.1 -0.1 5.19344 -0.1 11.6637C-0.1 13.9996 0.624492 16.3352 1.93021 18.2398L0.196998 23.295ZM5.87658 19.8847L5.84025 19.8665L5.80154 19.8788L2.78138 20.8398L3.73978 17.9646L3.75932 17.906L3.71562 17.8623L3.43104 17.5777C2.27704 15.8437 1.55796 13.8245 1.55796 11.6637C1.55796 6.03288 6.03288 1.55796 11.6637 1.55796C17.2945 1.55796 21.7695 6.03288 21.7695 11.6637C21.7695 17.2945 17.2945 21.7695 11.6637 21.7695C9.64222 21.7695 7.76778 21.1921 6.18227 20.039L6.17557 20.0342L6.16817 20.0305L5.87658 19.8847Z\" transform=\"translate(7.7758 7.77582)\" fill=\"white\" stroke=\"white\" stroke-width=\"0.2\"\/><\/svg>","is_desktop":1,"is_mobile":1,"icon_color":"#49E670","icon_rgb_color":"73,230,112","channel_type":"Whatsapp","custom_image_url":"","order":"","pre_set_message":"","is_use_web_version":"1","is_open_new_tab":"1","is_default_open":"0","has_welcome_message":"0","chat_welcome_message":"<p>How can I help you? :)<\/p>","qr_code_image_url":"","mail_subject":"","channel_account_type":"personal","contact_form_settings":[],"contact_fields":[],"url":"https:\/\/web.whatsapp.com\/send?phone=16143567696","mobile_target":"","desktop_target":"_blank","target":"_blank","is_agent":0,"agent_data":[],"header_text":"","header_sub_text":"","header_bg_color":"","header_text_color":"","widget_token":"654cacf8af","widget_index":"","click_event":""}]}],"data_analytics_settings":"off"};
+var chaty_settings = {"ajax_url":"https:\/\/thecioworld.com\/wp-admin\/admin-ajax.php","analytics":"0","capture_analytics":"0","token":"e92fc71b55","lang":{"whatsapp_label":"WhatsApp Message","hide_whatsapp_form":"Hide WhatsApp Form"},"chaty_widgets":[{"id":0,"identifier":0,"settings":{"cta_type":"simple-view","cta_body":"","cta_head":"","cta_head_bg_color":"","cta_head_text_color":"","show_close_button":1,"position":"right","custom_position":1,"bottom_spacing":"25","side_spacing":"25","icon_view":"vertical","default_state":"click","cta_text":"Let&#039;s Talk","cta_text_color":"#333333","cta_bg_color":"#ffffff","show_cta":"first_click","is_pending_mesg_enabled":"off","pending_mesg_count":"1","pending_mesg_count_color":"#ffffff","pending_mesg_count_bgcolor":"#dd0000","widget_icon":"chat-base","widget_icon_url":"","font_family":"-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif","widget_size":"54","custom_widget_size":"54","is_google_analytics_enabled":0,"close_text":"Hide","widget_color":"#A886CD","widget_rgb_color":"168,134,205","has_custom_css":0,"custom_css":"","widget_token":"068119bd26","widget_index":"","attention_effect":""},"triggers":{"has_time_delay":1,"time_delay":"0","exit_intent":0,"has_display_after_page_scroll":0,"display_after_page_scroll":"0","auto_hide_widget":0,"hide_after":0,"show_on_pages_rules":[],"time_diff":0,"has_date_scheduling_rules":0,"date_scheduling_rules":{"start_date_time":"","end_date_time":""},"date_scheduling_rules_timezone":0,"day_hours_scheduling_rules_timezone":0,"has_day_hours_scheduling_rules":[],"day_hours_scheduling_rules":[],"day_time_diff":0,"show_on_direct_visit":0,"show_on_referrer_social_network":0,"show_on_referrer_search_engines":0,"show_on_referrer_google_ads":0,"show_on_referrer_urls":[],"has_show_on_specific_referrer_urls":0,"has_traffic_source":0,"has_countries":0,"countries":[],"has_target_rules":0},"channels":[{"channel":"Whatsapp","value":"16143567696","hover_text":"WhatsApp","svg_icon":"<svg width=\"39\" height=\"39\" viewBox=\"0 0 39 39\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\"><circle class=\"color-element\" cx=\"19.4395\" cy=\"19.4395\" r=\"19.4395\" fill=\"#49E670\"\/><path d=\"M12.9821 10.1115C12.7029 10.7767 11.5862 11.442 10.7486 11.575C10.1902 11.7081 9.35269 11.8411 6.84003 10.7767C3.48981 9.44628 1.39593 6.25317 1.25634 6.12012C1.11674 5.85403 2.13001e-06 4.39053 2.13001e-06 2.92702C2.13001e-06 1.46351 0.83755 0.665231 1.11673 0.399139C1.39592 0.133046 1.8147 1.01506e-06 2.23348 1.01506e-06C2.37307 1.01506e-06 2.51267 1.01506e-06 2.65226 1.01506e-06C2.93144 1.01506e-06 3.21063 -2.02219e-06 3.35022 0.532183C3.62941 1.19741 4.32736 2.66092 4.32736 2.79397C4.46696 2.92702 4.46696 3.19311 4.32736 3.32616C4.18777 3.59225 4.18777 3.59224 3.90858 3.85834C3.76899 3.99138 3.6294 4.12443 3.48981 4.39052C3.35022 4.52357 3.21063 4.78966 3.35022 5.05576C3.48981 5.32185 4.18777 6.38622 5.16491 7.18449C6.42125 8.24886 7.39839 8.51496 7.81717 8.78105C8.09636 8.91409 8.37554 8.9141 8.65472 8.648C8.93391 8.38191 9.21309 7.98277 9.49228 7.58363C9.77146 7.31754 10.0507 7.1845 10.3298 7.31754C10.609 7.45059 12.2841 8.11582 12.5633 8.38191C12.8425 8.51496 13.1217 8.648 13.1217 8.78105C13.1217 8.78105 13.1217 9.44628 12.9821 10.1115Z\" transform=\"translate(12.9597 12.9597)\" fill=\"#FAFAFA\"\/><path d=\"M0.196998 23.295L0.131434 23.4862L0.323216 23.4223L5.52771 21.6875C7.4273 22.8471 9.47325 23.4274 11.6637 23.4274C18.134 23.4274 23.4274 18.134 23.4274 11.6637C23.4274 5.19344 18.134 -0.1 11.6637 -0.1C5.19344 -0.1 -0.1 5.19344 -0.1 11.6637C-0.1 13.9996 0.624492 16.3352 1.93021 18.2398L0.196998 23.295ZM5.87658 19.8847L5.84025 19.8665L5.80154 19.8788L2.78138 20.8398L3.73978 17.9646L3.75932 17.906L3.71562 17.8623L3.43104 17.5777C2.27704 15.8437 1.55796 13.8245 1.55796 11.6637C1.55796 6.03288 6.03288 1.55796 11.6637 1.55796C17.2945 1.55796 21.7695 6.03288 21.7695 11.6637C21.7695 17.2945 17.2945 21.7695 11.6637 21.7695C9.64222 21.7695 7.76778 21.1921 6.18227 20.039L6.17557 20.0342L6.16817 20.0305L5.87658 19.8847Z\" transform=\"translate(7.7758 7.77582)\" fill=\"white\" stroke=\"white\" stroke-width=\"0.2\"\/><\/svg>","is_desktop":1,"is_mobile":1,"icon_color":"#49E670","icon_rgb_color":"73,230,112","channel_type":"Whatsapp","custom_image_url":"","order":"","pre_set_message":"","is_use_web_version":"1","is_open_new_tab":"1","is_default_open":"0","has_welcome_message":"0","chat_welcome_message":"<p>How can I help you? :)<\/p>","qr_code_image_url":"","mail_subject":"","channel_account_type":"personal","contact_form_settings":[],"contact_fields":[],"url":"https:\/\/web.whatsapp.com\/send?phone=16143567696","mobile_target":"","desktop_target":"_blank","target":"_blank","is_agent":0,"agent_data":[],"header_text":"","header_sub_text":"","header_bg_color":"","header_text_color":"","widget_token":"068119bd26","widget_index":"","click_event":""}]}],"data_analytics_settings":"off"};
 </script>
 <script src='https://thecioworld.com/wp-content/plugins/chaty/js/cht-front-script.min.js?ver=3.1.81686911241' id='chaty-front-end-js'></script>
 <script src='https://thecioworld.com/wp-content/plugins/stock-ticker/assets/js/jquery.webticker.min.js?ver=2.2.0.2' id='jquery-webticker-js'></script>
 <script id='stock-ticker-js-extra'>
-var stockTickerJs = {"ajax_url":"https:\/\/thecioworld.com\/wp-admin\/admin-ajax.php","nonce":"4d7ae20244"};
+var stockTickerJs = {"ajax_url":"https:\/\/thecioworld.com\/wp-admin\/admin-ajax.php","nonce":"de99107c38"};
 </script>
 <script src='https://thecioworld.com/wp-content/plugins/stock-ticker/assets/js/jquery.stockticker.min.js?ver=3.23.5' id='stock-ticker-js'></script>
 <script src='https://thecioworld.com/wp-content/uploads/stock-ticker-reload.js?ver=3.23.5' id='stock-ticker-reload-js'></script>
 <script src='https://thecioworld.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
 <script id='oceanwp-main-js-extra'>
-var oceanwpLocalize = {"nonce":"21912a3058","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customScrollOffset":"0","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select"};
+var oceanwpLocalize = {"nonce":"95d56313eb","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customScrollOffset":"0","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select"};
 </script>
 <script src='https://thecioworld.com/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=3.4.5' id='oceanwp-main-js'></script>
 <script src='https://thecioworld.com/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=3.4.5' id='oceanwp-drop-down-mobile-menu-js'></script>
@@ -2546,12 +2546,12 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 </script>
 <script id='elementor-pro-frontend-js-before'>
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/thecioworld.com\/wp-admin\/admin-ajax.php","nonce":"bc61a62ba5","urls":{"assets":"https:\/\/thecioworld.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/thecioworld.com\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/thecioworld.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/thecioworld.com\/wp-admin\/admin-ajax.php","nonce":"7b67ed28c6","urls":{"assets":"https:\/\/thecioworld.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/thecioworld.com\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/thecioworld.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src='https://thecioworld.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.18.2' id='elementor-pro-frontend-js'></script>
 <script src='https://thecioworld.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.18.2' id='pro-elements-handlers-js'></script>
 <script id='upk-site-js-extra'>
-var UltimatePostKitConfig = {"ajaxurl":"https:\/\/thecioworld.com\/wp-admin\/admin-ajax.php","nonce":"2a6d82bbea","mailchimp":{"subscribing":"Subscribing you please wait..."},"elements_data":{"sections":[],"columns":[],"widgets":[]}};
+var UltimatePostKitConfig = {"ajaxurl":"https:\/\/thecioworld.com\/wp-admin\/admin-ajax.php","nonce":"3b8e40d786","mailchimp":{"subscribing":"Subscribing you please wait..."},"elements_data":{"sections":[],"columns":[],"widgets":[]}};
 </script>
 <script src='https://thecioworld.com/wp-content/plugins/ultimate-post-kit/assets/js/upk-site.min.js?ver=3.9.8' id='upk-site-js'></script>
 <script src='https://thecioworld.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.18.2' id='e-sticky-js'></script>
